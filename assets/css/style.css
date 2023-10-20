@@ -103,9 +103,24 @@ footer {
         display: none;
     }
 
-    nav a {
+    .navbar a {
         margin: 0 3rem;
     }
+}
 
+/*Media query for laptops - screen size 992px or wider*/
+@media screen and (min-width: 992px) {
+
+    /*Header*/
+    header {
+        flex-direction: row;
+        justify-content: left;
+    }
+
+    nav {
+        width: fit-content;
+        justify-content: space-between;
+        flex: 1;
+    }
 
 }
