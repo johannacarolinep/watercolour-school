@@ -37,6 +37,17 @@ header {
     text-decoration: underline;
 }
 
+/*Styles for navbar with dropdown toggle*/
+nav {
+    position: absolute;
+    background-color: aqua;
+    padding: 0 1rem;
+    width: 100%;
+    left: 0;
+    box-shadow: 0 1px 2px black;
+    display: none;
+}
+
 /*Main*/
 main {
     background-color: lemonchiffon;
