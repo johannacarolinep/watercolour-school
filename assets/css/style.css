@@ -20,12 +20,21 @@ header {
     z-index: 99;
     position: fixed;
     width: 100%;
-    box-shadow: 0 1px 2px #000000
+    box-shadow: 0 1px 2px black
 }
 
 .menu-main {
     display: flex;
     flex-direction: column;
+}
+
+.navbar a {
+    text-decoration: none;
+    margin-bottom: 1em;
+}
+
+#active {
+    text-decoration: underline;
 }
 
 /*Main*/
