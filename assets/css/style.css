@@ -1,3 +1,11 @@
+/*Asterisk wildcard selector*/
+* {
+    /*Remove default styles added by browsers*/
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
 /*Header*/
 header {
     background-color: aqua;
