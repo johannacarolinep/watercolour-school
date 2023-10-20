@@ -76,3 +76,36 @@ main {
 footer {
     background-color: greenyellow;
 }
+
+/*Media query for tablets, screen size >= 768px */
+@media screen and (min-width: 768px) {
+
+    /*Header*/
+    header {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    nav {
+        position: relative;
+        display: flex;
+        box-shadow: none;
+        width: 100%;
+        justify-content: center;
+    }
+
+    .menu-main {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
+
+    nav a {
+        margin: 0 3rem;
+    }
+
+
+}
