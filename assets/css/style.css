@@ -176,6 +176,7 @@ footer {
         width: fit-content;
         justify-content: space-between;
         flex: 1;
+        margin-left: 0.5rem;
     }
 
     /*Logo styles*/
