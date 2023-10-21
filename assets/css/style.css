@@ -64,7 +64,6 @@ nav {
 
 /*Navigation link styles*/
 .navbar a {
-
     padding: 1rem 0;
     font-size: 1.2rem;
     color: black;
@@ -116,17 +115,21 @@ footer {
         align-items: center;
     }
 
+    /*Styles for navigation bar*/
     nav {
         position: relative;
         display: flex;
         box-shadow: none;
         width: 100%;
         justify-content: center;
+        text-align: center;
+        padding: 0;
     }
 
     .menu-main {
         display: flex;
         flex-direction: row;
+        align-items: center;
     }
 
     .nav-toggle-label {
@@ -138,9 +141,10 @@ footer {
         display: flex;
     }
 
-
+    /*Styles for navigation bar links*/
     .navbar a {
-        margin: 0 3rem;
+        margin: 0;
+        padding: 0.5rem 2.2rem;
     }
 
     /*Logo styles*/
@@ -149,6 +153,11 @@ footer {
         text-align: center;
         border-bottom: 1px solid black;
         margin-top: 1rem;
+    }
+
+    .logo-container a {
+        padding: 0 3rem;
+        padding-top: 1rem;
     }
 
 
@@ -179,8 +188,13 @@ footer {
 
     .logo-container a {
         padding-right: 2rem;
+        padding-left: 0.5rem;
     }
 
+    /*Navbar link styles*/
+    .navbar a {
+        padding: 0.5rem 1.8rem;
+    }
 
 
 
