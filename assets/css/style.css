@@ -47,9 +47,25 @@ header a {
     font-size: 1.5rem;
 }
 
+
+
+/*Styles for navbar with dropdown toggle*/
+nav {
+    position: absolute;
+    background-color: aqua;
+    padding: 0 1rem;
+    padding-top: 1rem;
+    width: 100%;
+    left: 0;
+    box-shadow: 0 1px 2px black;
+    display: none;
+    top: 100%;
+}
+
 /*Navigation link styles*/
 .navbar a {
-    margin-bottom: 1em;
+
+    padding: 1rem 0;
     font-size: 1.2rem;
     color: black;
 }
@@ -62,16 +78,8 @@ header a {
     text-decoration: underline;
 }
 
-/*Styles for navbar with dropdown toggle*/
-nav {
-    position: absolute;
-    background-color: aqua;
-    padding: 0 1rem;
-    width: 100%;
-    left: 0;
-    box-shadow: 0 1px 2px black;
-    display: none;
-    top: 100%;
+.menu-split a {
+    display: block;
 }
 
 /*Navbar toggle*/
