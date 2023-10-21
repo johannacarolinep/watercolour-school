@@ -47,8 +47,15 @@ header a {
     font-size: 1.5rem;
 }
 
+/*Navigation link styles*/
 .navbar a {
     margin-bottom: 1em;
+    font-size: 1.2rem;
+    color: black;
+}
+
+.navbar a:hover {
+    background-color: red;
 }
 
 #active {
