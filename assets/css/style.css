@@ -121,6 +121,16 @@ footer {
     .navbar a {
         margin: 0 3rem;
     }
+
+    /*Logo styles*/
+    .logo-container {
+        font-size: 2rem;
+        text-align: center;
+        border-bottom: 1px solid black;
+        margin-top: 1rem;
+    }
+
+
 }
 
 /*Media query for laptops - screen size 992px or wider*/
@@ -137,5 +147,20 @@ footer {
         justify-content: space-between;
         flex: 1;
     }
+
+    /*Logo styles*/
+    .logo-container {
+        border-right: 2px solid red;
+        border-bottom: none;
+        font-size: 2rem;
+        margin: 0.5rem 0;
+    }
+
+    .logo-container a {
+        padding-right: 2rem;
+    }
+
+
+
 
 }
