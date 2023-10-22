@@ -105,6 +105,17 @@ main {
     height: 600px;
     width: 100%;
     background: url("../images/watercolour-paints-with-brush.webp") no-repeat center center/cover;
+    position: relative;
+}
+
+#text-overlay {
+    background-color: rgba(255, 255, 255, 0.80);
+    font-size: 120%;
+    width: 80%;
+    min-height: 250px;
+    padding: 40px 10px;
+    position: absolute;
+    bottom: 100px;
 }
 
 /*Footer*/
