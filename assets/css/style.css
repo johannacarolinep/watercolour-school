@@ -97,6 +97,8 @@ main {
     background-color: lemonchiffon;
     /*Make body take upp surplus space*/
     flex: 1 0 auto;
+    /*Push below header*/
+    margin-top: 47.5px;
 }
 
 /*Footer*/
@@ -166,6 +168,12 @@ footer address {
         font-size: 2rem;
     }
 
+    /*Main*/
+    main {
+        /*Push below header*/
+        margin-top: 100.5px;
+    }
+
     /*Footer*/
     footer {
         display: flex;
@@ -213,6 +221,12 @@ footer address {
     /*Navbar link styles*/
     .navbar a {
         padding: 0.5rem 1.8rem;
+    }
+
+    /*Main*/
+    main {
+        /*Push below header*/
+        margin-top: 59px;
     }
 
 }
