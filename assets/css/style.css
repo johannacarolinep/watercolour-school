@@ -101,6 +101,12 @@ main {
     margin-top: 47.5px;
 }
 
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url("../images/watercolour-paints-with-brush.webp") no-repeat center center/cover;
+}
+
 /*Footer*/
 footer {
     background-color: greenyellow;
