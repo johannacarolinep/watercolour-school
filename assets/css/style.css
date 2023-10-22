@@ -19,7 +19,7 @@ body {
 
 /*Header*/
 header {
-    background-color: aqua;
+    background-color: #ffffff;
     padding: 0 1rem;
     z-index: 99;
     position: fixed;
@@ -41,16 +41,16 @@ header a {
 }
 
 /*Logo styles*/
-.logo-container {
+.logo-container a {
     font-family: 'Life Savers', serif;
-    font-weight: 700;
-    font-size: 1.5rem;
+    font-weight: 800;
+    font-size: 1.6rem;
 }
 
 /*Styles for navbar with dropdown toggle*/
 nav {
     position: absolute;
-    background-color: aqua;
+    background-color: #ffffff;
     padding: 0 1rem;
     padding-top: 1rem;
     width: 100%;
@@ -155,7 +155,6 @@ footer address {
 
     /*Logo styles*/
     .logo-container {
-        font-size: 2rem;
         text-align: center;
         border-bottom: 1px solid black;
         margin-top: 1rem;
@@ -164,6 +163,7 @@ footer address {
     .logo-container a {
         padding: 0 3rem;
         padding-top: 1rem;
+        font-size: 2rem;
     }
 
     /*Footer*/
@@ -201,20 +201,18 @@ footer address {
     .logo-container {
         border-right: 2px solid red;
         border-bottom: none;
-        font-size: 2.2rem;
         margin: 0.5rem 0;
     }
 
     .logo-container a {
         padding-right: 2rem;
         padding-left: 0.5rem;
+        font-size: 2.2rem;
     }
 
     /*Navbar link styles*/
     .navbar a {
         padding: 0.5rem 1.8rem;
     }
-
-
 
 }
