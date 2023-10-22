@@ -112,6 +112,7 @@ main {
     background-color: rgba(255, 255, 255, 0.80);
     font-size: 120%;
     width: 80%;
+    left: 10%;
     min-height: 250px;
     padding: 40px 10px;
     position: absolute;
@@ -125,7 +126,7 @@ main {
     align-items: center;
 }
 
-button {
+.hero-button button {
     background-color: rgb(255, 247, 0);
     color: black;
     font-family: 'Poppins', sans-serif;
@@ -138,12 +139,12 @@ button {
     transition-duration: 0.4s;
 }
 
-button:hover {
+.hero-button button:hover {
     background-color: rgb(233, 214, 0);
     box-shadow: 2px 2px 5px rgb(190, 188, 188);
 }
 
-button:active {
+.hero-button button:active {
     box-shadow: 2px 2px 5px rgb(76, 74, 74);
 }
 
@@ -218,6 +219,18 @@ footer address {
     main {
         /*Push below header*/
         margin-top: 100.5px;
+    }
+
+    /*Hero*/
+    #text-overlay {
+        font-size: 140%;
+        padding: 40px 30px;
+    }
+
+    .hero-button button {
+        width: 220px;
+        padding: 13px 16px;
+        font-size: 1.4rem;
     }
 
     /*Footer*/
