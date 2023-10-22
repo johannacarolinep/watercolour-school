@@ -148,6 +148,18 @@ main {
     box-shadow: 2px 2px 5px rgb(76, 74, 74);
 }
 
+/*Course overview section*/
+.text-section {
+    width: 100%;
+    background-color: #ffffff;
+    padding: 20px;
+    font-size: 1.2rem;
+}
+
+.right-align {
+    text-align: right;
+}
+
 /*Footer*/
 footer {
     background-color: greenyellow;
