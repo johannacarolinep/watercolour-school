@@ -320,6 +320,24 @@ footer address {
         font-size: 1.3rem;
     }
 
+    /*Info box section*/
+    .info-box-section {
+        display: flex;
+        justify-content: space-between;
+        width: 96%;
+        margin: auto;
+    }
+
+    .info-box-div {
+        padding: 15px;
+        margin: 7px;
+        min-height: 150px;
+        font-size: 1rem;
+        line-height: 300%;
+        flex-basis: 33%;
+    }
+
+
     /*Footer*/
     footer {
         display: flex;
@@ -389,6 +407,21 @@ footer address {
         margin: auto;
         margin-top: 30px;
         background-color: #ffffff;
+    }
+
+    /*Info box section*/
+    .info-box-section {
+        width: 80%;
+        margin-top: 30px;
+    }
+
+    .info-box-div {
+        padding: 15px;
+        margin: 7px;
+        min-height: 150px;
+        font-size: 1rem;
+        line-height: 300%;
+        flex-basis: 33%;
     }
 
 
