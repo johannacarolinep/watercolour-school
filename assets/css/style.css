@@ -94,7 +94,7 @@ nav {
 
 /*Main*/
 main {
-    background-color: lemonchiffon;
+    background-color: rgb(244, 243, 235);
     /*Make body take upp surplus space*/
     flex: 1 0 auto;
     /*Push below header*/
@@ -245,6 +245,12 @@ footer address {
         font-size: 1.4rem;
     }
 
+    /*Course overview section*/
+    .text-section {
+        padding: 40px;
+        font-size: 1.3rem;
+    }
+
     /*Footer*/
     footer {
         display: flex;
@@ -299,5 +305,18 @@ footer address {
         /*Push below header*/
         margin-top: 59px;
     }
+
+    /*Course overview section*/
+    .text-section {
+        padding: 40px;
+        width: 80%;
+        margin: auto;
+        margin-top: 30px;
+        max-width: 1500px;
+
+
+    }
+
+
 
 }
