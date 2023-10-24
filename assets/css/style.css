@@ -462,6 +462,17 @@ footer address {
         margin-top: 59px;
     }
 
+    /*Hero*/
+    #text-overlay {
+        font-size: 140%;
+        padding: 40px 30px;
+        width: 85%;
+        left: 0;
+        right: 0;
+        margin: auto;
+        max-width: 1200px;
+    }
+
     /*Course overview section*/
     .text-section {
         padding: 40px;
