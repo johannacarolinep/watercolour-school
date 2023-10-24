@@ -465,14 +465,16 @@ footer address {
     /*Course overview section*/
     .text-section {
         padding: 40px;
-        width: 80%;
+        width: 85%;
+        max-width: 1200px;
         margin: auto;
         margin-top: 30px;
     }
 
     /*Testimonial section*/
     .testimonial-section {
-        width: 80%;
+        width: 85%;
+        max-width: 1200px;
         margin: auto;
         margin-top: 30px;
         background-color: #ffffff;
@@ -480,7 +482,8 @@ footer address {
 
     /*Info box section*/
     .info-box-section {
-        width: 80%;
+        width: 85%;
+        max-width: 1200px;
         margin-top: 30px;
     }
 
@@ -496,9 +499,11 @@ footer address {
     /*User art section*/
     .user-art-section {
         padding-bottom: 30px;
-        width: 80%;
+        width: 85%;
+        max-width: 1200px;
         margin: auto;
         margin-top: 25px;
+        margin-bottom: 30px;
     }
 
     .user-art-heading {
