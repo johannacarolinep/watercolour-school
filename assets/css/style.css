@@ -161,8 +161,18 @@ main {
 }
 
 /*Testimonial section*/
+.testimonial-section {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: space-around;
+    min-height: 550px;
+}
+
 .testimonial-section img {
     border-radius: 50%;
+    width: 86%;
+    margin: auto;
 }
 
 /*Footer*/
@@ -254,6 +264,22 @@ footer address {
     .text-section {
         padding: 40px;
         font-size: 1.3rem;
+    }
+
+    /*Testimonial section*/
+    .testimonial-section {
+        padding: 40px;
+        flex-direction: row;
+        align-items: center;
+        min-height: 300px;
+    }
+
+    .testimonial-section img {
+        width: 250px;
+    }
+
+    .quote-container {
+        padding-left: 30px;
     }
 
     /*Footer*/
