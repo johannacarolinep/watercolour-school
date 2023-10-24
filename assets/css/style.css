@@ -183,6 +183,11 @@ main {
     font-size: 1.2rem;
 }
 
+/*Info box section*/
+.info-box-section div {
+    background-color: #ffffff;
+}
+
 /*Footer*/
 footer {
     background-color: greenyellow;
@@ -364,6 +369,8 @@ footer address {
         margin-top: 30px;
         background-color: #ffffff;
     }
+
+
 
 
 
