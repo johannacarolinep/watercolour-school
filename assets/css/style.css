@@ -175,6 +175,14 @@ main {
     margin: auto;
 }
 
+.quote-container {
+    padding: 20px 0;
+}
+
+.quote {
+    font-size: 1.2rem;
+}
+
 /*Footer*/
 footer {
     background-color: greenyellow;
@@ -282,6 +290,10 @@ footer address {
         padding-left: 30px;
     }
 
+    .quote {
+        font-size: 1.3rem;
+    }
+
     /*Footer*/
     footer {
         display: flex;
@@ -343,6 +355,14 @@ footer address {
         width: 80%;
         margin: auto;
         margin-top: 30px;
+    }
+
+    /*Testimonial section*/
+    .testimonial-section {
+        width: 80%;
+        margin: auto;
+        margin-top: 30px;
+        background-color: #ffffff;
     }
 
 
