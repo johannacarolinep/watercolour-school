@@ -235,6 +235,12 @@ main {
     padding-left: 20px;
 }
 
+.user-art-social i {
+    font-size: 3rem;
+    padding: 10px;
+    color: black;
+}
+
 
 
 /*Footer*/
