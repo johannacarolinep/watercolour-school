@@ -186,6 +186,15 @@ main {
 /*Info box section*/
 .info-box-section div {
     background-color: #ffffff;
+    padding: 20px;
+    margin: 15px;
+    min-height: 200px;
+    font-size: 1.2rem;
+    line-height: 300%;
+}
+
+.date-list ol {
+    list-style-type: none;
 }
 
 /*Footer*/
