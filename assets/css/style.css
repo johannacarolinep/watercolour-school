@@ -160,6 +160,11 @@ main {
     text-align: right;
 }
 
+/*Testimonial section*/
+.testimonial-section img {
+    border-radius: 50%;
+}
+
 /*Footer*/
 footer {
     background-color: greenyellow;
@@ -312,9 +317,6 @@ footer address {
         width: 80%;
         margin: auto;
         margin-top: 30px;
-        max-width: 1500px;
-
-
     }
 
 
