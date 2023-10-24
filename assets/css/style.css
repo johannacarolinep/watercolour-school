@@ -17,6 +17,27 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+button {
+    background-color: rgb(255, 247, 0);
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 13px;
+    transition-duration: 0.4s;
+    font-weight: 700;
+    font-size: 1.2rem;
+}
+
+button:hover {
+    background-color: rgb(233, 214, 0);
+    box-shadow: 2px 2px 5px rgb(190, 188, 188);
+}
+
+button:active {
+    box-shadow: 2px 2px 5px rgb(76, 74, 74);
+}
+
 /*Header*/
 header {
     background-color: #ffffff;
@@ -127,26 +148,9 @@ main {
 }
 
 .hero-button button {
-    background-color: rgb(255, 247, 0);
-    color: black;
-    font-family: 'Poppins', sans-serif;
-    font-weight: 700;
     width: 200px;
-    border: none;
-    border-radius: 3px;
-    padding: 10px 13px;
-    font-size: 1.2rem;
-    transition-duration: 0.4s;
 }
 
-.hero-button button:hover {
-    background-color: rgb(233, 214, 0);
-    box-shadow: 2px 2px 5px rgb(190, 188, 188);
-}
-
-.hero-button button:active {
-    box-shadow: 2px 2px 5px rgb(76, 74, 74);
-}
 
 /*Course overview section*/
 .text-section {
