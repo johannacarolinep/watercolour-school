@@ -212,7 +212,7 @@ main {
 }
 
 .user-art-heading {
-    padding: 20px;
+    padding: 15px;
     font-weight: 500;
 }
 
@@ -230,9 +230,8 @@ main {
 }
 
 .user-art-social {
-    padding-top: 10px;
+    padding: 15px;
     padding-bottom: 20px;
-    padding-left: 20px;
 }
 
 .user-art-social i {
@@ -240,8 +239,6 @@ main {
     padding: 10px;
     color: black;
 }
-
-
 
 /*Footer*/
 footer {
@@ -375,6 +372,43 @@ footer address {
         flex-basis: 33%;
     }
 
+    /*User art section*/
+    .user-art-section {
+        margin-top: 25px;
+        padding-bottom: 30px;
+    }
+
+    .user-art-heading {
+        padding: 20px 40px;
+        font-weight: 600;
+        font-size: 1.3rem;
+    }
+
+    .user-art-container {
+        width: 90%;
+        margin: auto;
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .user-art-images {
+        width: 50%;
+    }
+
+    .user-art-images img {
+        width: 48%;
+        margin-top: 2%;
+    }
+
+    .user-art-social {
+        width: 35%;
+    }
+
+    .user-art-social p,
+    a {
+        margin-top: 25%;
+        font-size: 1.4rem;
+    }
 
     /*Footer*/
     footer {
@@ -386,9 +420,6 @@ footer address {
         display: flex;
         align-items: end;
     }
-
-
-
 }
 
 /*Media query for laptops - screen size 992px or wider*/
@@ -462,8 +493,40 @@ footer address {
         flex-basis: 33%;
     }
 
+    /*User art section*/
+    .user-art-section {
+        padding-bottom: 30px;
+        width: 80%;
+        margin: auto;
+        margin-top: 25px;
+    }
 
+    .user-art-heading {
+        padding: 20px;
+        font-size: 1.3rem;
+    }
 
+    .user-art-container {
+        width: 100%;
+    }
 
+    .user-art-images {
+        width: 75%;
+        padding-left: 10px;
+    }
 
+    .user-art-images img {
+        width: 24%;
+        margin-top: 0;
+    }
+
+    .user-art-social {
+        width: 25%;
+    }
+
+    .user-art-social p,
+    a {
+        margin-top: 5%;
+        font-size: 1.1rem;
+    }
 }
