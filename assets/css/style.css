@@ -15,14 +15,23 @@ body {
     flex-direction: column;
     min-height: 100vh;
     font-family: 'Poppins', sans-serif;
+    color: #2e2e22;
 }
 
+/*Headings*/
 .heading-hidden {
     display: none;
 }
 
+h1,
+h2,
+h3 {
+    color: black;
+}
+
+/*Buttons*/
 button {
-    background-color: rgb(255, 247, 0);
+    background-color: #fffb00;
     color: black;
     font-family: 'Poppins', sans-serif;
     border: none;
@@ -34,7 +43,7 @@ button {
 }
 
 button:hover {
-    background-color: rgb(233, 214, 0);
+    background-color: #f6e900;
     box-shadow: 2px 2px 5px rgb(190, 188, 188);
 }
 
@@ -100,7 +109,7 @@ nav {
 }
 
 .navbar a:hover {
-    background-color: red;
+    background-color: #f4f3ea;
 }
 
 #active {
@@ -126,7 +135,7 @@ nav {
 
 /*Main*/
 main {
-    background-color: rgb(244, 243, 235);
+    background-color: #f4f3ea;
     /*Make body take upp surplus space*/
     flex: 1 0 auto;
     /*Push below header*/
@@ -141,7 +150,7 @@ main {
 }
 
 #text-overlay {
-    background-color: rgba(255, 255, 255, 0.80);
+    background-color: rgba(245, 244, 249, 0.786);
     font-size: 120%;
     width: 80%;
     left: 10%;
@@ -250,7 +259,7 @@ main {
 
 /*Footer*/
 footer {
-    background-color: rgb(255, 247, 0);
+    background-color: #fffb00;
 }
 
 footer div {
@@ -310,7 +319,7 @@ footer address {
     /*Logo styles*/
     .logo-container {
         text-align: center;
-        border-bottom: 1px solid black;
+        border-bottom: 1px solid #2e2e22;
         margin-top: 1rem;
     }
 
@@ -452,7 +461,7 @@ footer address {
 
     /*Logo styles*/
     .logo-container {
-        border-right: 2px solid red;
+        border-right: 2px solid #2e2e22;
         border-bottom: none;
         margin: 0.5rem 0;
     }
@@ -517,7 +526,6 @@ footer address {
         width: 85%;
         margin-top: 30px;
     }
-
 
     .info-box-div {
         padding: 15px;
