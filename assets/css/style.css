@@ -260,7 +260,8 @@ main {
 /*Sign up page styles */
 .signup-section {
     background-color: white;
-    margin: 20px;
+    margin: 20px auto;
+    width: 90%;
 }
 
 .signup-container {
@@ -285,6 +286,14 @@ main {
 
 #signup-form h1 {
     padding-bottom: 15px;
+}
+
+.signup-section picture {
+    width: 90%;
+}
+
+picture img {
+    width: 100%;
 }
 
 /*Footer*/
@@ -357,6 +366,7 @@ footer address {
         padding: 0 3rem;
         padding-top: 1rem;
         font-size: 2rem;
+
     }
 
     /*Main*/
@@ -459,6 +469,25 @@ footer address {
     a {
         margin-top: 25%;
         font-size: 1.4rem;
+    }
+
+    /*Signup page*/
+    .signup-section {
+        display: flex;
+    }
+
+    .signup-container {
+        flex-basis: 50%;
+        display: flex;
+        align-items: center;
+    }
+
+    picture {
+        flex-basis: 50%;
+    }
+
+    picture img {
+        height: 100%;
     }
 
     /*Footer*/
@@ -600,4 +629,12 @@ footer address {
         margin-top: 5%;
         font-size: 1.1rem;
     }
+
+    /*Signup page*/
+    .signup-section {
+        width: 85%;
+        max-width: 1000px;
+        margin-top: 40px;
+    }
+
 }
