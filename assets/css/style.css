@@ -296,6 +296,17 @@ main {
     width: 100%;
 }
 
+/* Response page */
+.response-section {
+    background-color: white;
+    margin: 20px auto;
+    width: 90%;
+}
+
+.signup-container {
+    padding: 15px;
+}
+
 /*Footer*/
 footer {
     background-color: #fffb00;
@@ -493,6 +504,25 @@ footer address {
         height: 100%;
     }
 
+    /*Response page*/
+    .response-section {
+        display: flex;
+        margin-top: 10%
+    }
+
+    .response-container {
+        flex-basis: 50%;
+        padding-top: 40px;
+    }
+
+    .signup-picture {
+        flex-basis: 50%;
+    }
+
+    .signup-picture img {
+        height: 100%;
+    }
+
     /*Footer*/
     footer {
         display: flex;
@@ -643,6 +673,13 @@ footer address {
     signup-container {
         padding-top: 0;
         padding-bottom: 0;
+    }
+
+    /*Response page*/
+    .response-section {
+        width: 80%;
+        max-width: 1000px;
+        margin-top: 40px;
     }
 
 }
