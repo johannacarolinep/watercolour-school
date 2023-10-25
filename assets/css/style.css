@@ -17,6 +17,10 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+.heading-hidden {
+    display: none;
+}
+
 button {
     background-color: rgb(255, 247, 0);
     color: black;
@@ -164,15 +168,18 @@ main {
 }
 
 /*Testimonial section*/
-.testimonial-section {
+.testimonial {
     padding: 20px;
+}
+
+.testimonial-container {
     display: flex;
     flex-direction: column;
     align-items: space-around;
     min-height: 550px;
 }
 
-.testimonial-section img {
+.testimonial-container img {
     border-radius: 50%;
     width: 86%;
     margin: auto;
@@ -242,7 +249,7 @@ main {
 
 /*Footer*/
 footer {
-    background-color: greenyellow;
+    background-color: rgb(255, 247, 0);
 }
 
 footer div {
@@ -336,14 +343,17 @@ footer address {
     }
 
     /*Testimonial section*/
-    .testimonial-section {
+    .testimonial {
         padding: 40px;
+    }
+
+    .testimonial-container {
         flex-direction: row;
         align-items: center;
         min-height: 300px;
     }
 
-    .testimonial-section img {
+    .testimonial-container img {
         width: 250px;
     }
 
@@ -483,12 +493,13 @@ footer address {
     }
 
     /*Testimonial section*/
-    .testimonial-section {
+
+    .testimonial {
+        background-color: #ffffff;
         width: 85%;
         max-width: 1200px;
         margin: auto;
         margin-top: 30px;
-        background-color: #ffffff;
     }
 
     /*Info box section*/
