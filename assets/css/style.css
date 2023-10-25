@@ -260,11 +260,31 @@ main {
 /*Sign up page styles */
 .signup-section {
     background-color: white;
-    margin: 10px;
+    margin: 20px;
 }
 
 .signup-container {
     padding: 15px;
+}
+
+#signup-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    padding: 10px;
+}
+
+.text-input,
+.dropdown {
+    padding: 7px 5px;
+    margin-bottom: 5px;
+    font-size: 1rem;
+    border: none;
+    border-bottom: 2px solid #2e2e22;
+}
+
+#signup-form h1 {
+    padding-bottom: 15px;
 }
 
 /*Footer*/
