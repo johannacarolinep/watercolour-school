@@ -288,11 +288,11 @@ main {
     padding-bottom: 15px;
 }
 
-.signup-section picture {
+.signup-picture {
     width: 90%;
 }
 
-picture img {
+.signup-picture img {
     width: 100%;
 }
 
@@ -474,19 +474,22 @@ footer address {
     /*Signup page*/
     .signup-section {
         display: flex;
+        margin-top: 10%
     }
 
     .signup-container {
         flex-basis: 50%;
         display: flex;
         align-items: center;
+        padding-top: 40px;
+        padding-bottom: 40px;
     }
 
-    picture {
+    .signup-picture {
         flex-basis: 50%;
     }
 
-    picture img {
+    .signup-picture img {
         height: 100%;
     }
 
@@ -632,9 +635,14 @@ footer address {
 
     /*Signup page*/
     .signup-section {
-        width: 85%;
+        width: 80%;
         max-width: 1000px;
         margin-top: 40px;
+    }
+
+    signup-container {
+        padding-top: 0;
+        padding-bottom: 0;
     }
 
 }
