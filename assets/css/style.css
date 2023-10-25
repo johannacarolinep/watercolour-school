@@ -257,6 +257,16 @@ main {
     color: black;
 }
 
+/*Sign up page styles */
+.signup-section {
+    background-color: white;
+    margin: 10px;
+}
+
+.signup-container {
+    padding: 15px;
+}
+
 /*Footer*/
 footer {
     background-color: #fffb00;
