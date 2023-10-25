@@ -222,9 +222,8 @@ main {
     background-color: #ffffff;
 }
 
-.user-art-heading {
+.user-art-section h2 {
     padding: 15px;
-    font-weight: 500;
 }
 
 .user-art-images {
@@ -395,10 +394,8 @@ footer address {
         padding-bottom: 30px;
     }
 
-    .user-art-heading {
+    .user-art-section h2 {
         padding: 20px 40px;
-        font-weight: 600;
-        font-size: 1.3rem;
     }
 
     .user-art-container {
@@ -536,9 +533,8 @@ footer address {
         margin-bottom: 30px;
     }
 
-    .user-art-heading {
+    .user-art-section h2 {
         padding: 20px;
-        font-size: 1.3rem;
     }
 
     .user-art-container {
