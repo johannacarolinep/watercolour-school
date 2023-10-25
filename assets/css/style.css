@@ -9,7 +9,7 @@
     box-sizing: border-box;
 }
 
-/*General*/
+/*General styles*/
 body {
     display: flex;
     flex-direction: column;
@@ -157,7 +157,6 @@ main {
 
 /*Course overview section*/
 .text-section {
-    width: 100%;
     background-color: #ffffff;
     padding: 20px;
     font-size: 1.2rem;
@@ -218,7 +217,6 @@ main {
 
 /*User art section*/
 .user-art-section {
-    width: 100%;
     background-color: #ffffff;
 }
 
@@ -476,7 +474,18 @@ footer address {
         margin-top: 59px;
     }
 
+    /*General styles*/
+    section {
+        width: 85%;
+        max-width: 1200px;
+    }
+
     /*Hero*/
+    #hero {
+        width: 100%;
+        max-width: none;
+    }
+
     #text-overlay {
         font-size: 140%;
         padding: 40px 30px;
@@ -490,8 +499,6 @@ footer address {
     /*Course overview section*/
     .text-section {
         padding: 40px;
-        width: 85%;
-        max-width: 1200px;
         margin: auto;
         margin-top: 30px;
     }
@@ -500,8 +507,6 @@ footer address {
 
     .testimonial {
         background-color: #ffffff;
-        width: 85%;
-        max-width: 1200px;
         margin: auto;
         margin-top: 30px;
     }
@@ -510,7 +515,6 @@ footer address {
 
     .info-box-section {
         width: 85%;
-        max-width: 1200px;
         margin-top: 30px;
     }
 
@@ -526,8 +530,6 @@ footer address {
     /*User art section*/
     .user-art-section {
         padding-bottom: 30px;
-        width: 85%;
-        max-width: 1200px;
         margin: auto;
         margin-top: 25px;
         margin-bottom: 30px;
