@@ -30,7 +30,7 @@ h3 {
 }
 
 /*Buttons*/
-button {
+.button {
     background-color: #fffb00;
     color: black;
     font-family: 'Poppins', sans-serif;
@@ -40,14 +40,15 @@ button {
     transition-duration: 0.4s;
     font-weight: 700;
     font-size: 1.2rem;
+    text-decoration: none;
 }
 
-button:hover {
+.button:hover {
     background-color: #f6e900;
     box-shadow: 2px 2px 5px rgb(190, 188, 188);
 }
 
-button:active {
+.button:active {
     box-shadow: 2px 2px 5px rgb(76, 74, 74);
 }
 
