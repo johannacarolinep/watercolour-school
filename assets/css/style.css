@@ -266,6 +266,76 @@ main {
     color: black;
 }
 
+/* Course info page styles */
+.course_article {
+    background-color: #ffffff;
+    padding-top: 30px;
+    font-size: 1.2rem;
+}
+
+.course_article section {
+    margin-top: 20px;
+    padding: 15px;
+}
+
+.course_article h1 {
+    font-size: 1.3rem;
+}
+
+.course_article ol,
+ul {
+    list-style-type: none;
+}
+
+.course_details_section {
+    background-color: #fffb00;
+    margin: 20px;
+}
+
+.course_details_section div {
+    padding: 20px;
+}
+
+.course_scope_section {
+    background-color: #f4f3ea;
+}
+
+.scope_image_container {
+    width: 75%;
+    margin-top: 20px;
+    background-color: aqua;
+}
+
+.course_scope_section span,
+.course_schedule_section span {
+    font-weight: 600;
+}
+
+.course_scope_section,
+.course_schedule_section li {
+    margin-top: 15px;
+}
+
+.course_cta_section {
+    background-color: #f4f3ea;
+}
+
+.course_cta_container {
+    background-color: #ffffff;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.course_cta_container a {
+    margin: 20px 10px;
+    font-size: 1.4rem;
+    padding: 15px;
+}
+
+
+
 /*Sign up page styles */
 .signup-section {
     background-color: white;
