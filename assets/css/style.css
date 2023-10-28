@@ -61,6 +61,16 @@ h3 {
     margin-top: 20px;
 }
 
+/* Links */
+.link_standard {
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+
+.link_standard:hover {
+    text-decoration: underline;
+}
 
 /*Header*/
 header {
