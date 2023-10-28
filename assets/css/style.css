@@ -274,12 +274,23 @@ main {
 }
 
 .course_article section {
-    margin-top: 20px;
     padding: 15px;
 }
 
+#course_intro_section {
+    padding-top: 5px;
+}
+
 .course_article h1 {
-    font-size: 1.3rem;
+    font-size: 1.2rem;
+    margin: 0 15px;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.highlight_beige {
+    background-color: #f4f3ea;
+    padding: 2px;
 }
 
 .course_article ol,
@@ -310,8 +321,6 @@ ul {
     width: 100%;
     border-radius: 50%;
 }
-
-
 
 .course_scope_section span,
 .course_schedule_section span {
