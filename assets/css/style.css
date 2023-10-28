@@ -318,7 +318,9 @@ ul {
 
 .course_details_section {
     background-color: #fffb00;
-    margin: 20px;
+    margin: 20px auto;
+    width: 90%;
+    max-width: 600px;
 }
 
 .fine_print {
@@ -604,13 +606,39 @@ footer address {
     }
 
     .user-art-social p,
-    a {
+    .user-art-social a {
         margin-top: 25%;
         font-size: 1.4rem;
     }
 
     .button-info-box {
         line-height: 1.5rem;
+    }
+
+    /* Course info page styles */
+    .course_details_section {
+        width: 100%;
+        max-width: 820px;
+        background-color: #ffffff;
+        padding: 0;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .course_details_section div {
+        width: 49%;
+        background-color: #fffb00;
+        margin-bottom: 15px;
+    }
+
+    .course_details_price_div {
+        width: 100%;
+        flex-grow: 1;
+    }
+
+    .course_details_section hr {
+        display: none;
     }
 
     /*Signup page*/
@@ -793,7 +821,7 @@ footer address {
     }
 
     .user-art-social p,
-    a {
+    .user-art-social a {
         margin-top: 5%;
         font-size: 1.1rem;
     }
