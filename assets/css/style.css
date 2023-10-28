@@ -277,10 +277,6 @@ main {
     padding: 15px;
 }
 
-#course_intro_section {
-    padding-top: 5px;
-}
-
 .course_article h1 {
     font-size: 1.2rem;
     margin: 0 15px;
@@ -293,6 +289,10 @@ main {
     padding: 2px;
 }
 
+#course_intro_section {
+    padding-top: 5px;
+}
+
 .course_article ol,
 ul {
     list-style-type: none;
@@ -303,8 +303,18 @@ ul {
     margin: 20px;
 }
 
+.fine_print {
+    font-size: 80%;
+}
+
 .course_details_section div {
     padding: 20px;
+}
+
+.course_details_section hr {
+    border-top: 2px solid black;
+    width: 90%;
+    margin: auto;
 }
 
 .course_scope_section {
