@@ -301,17 +301,24 @@ ul {
 }
 
 .scope_image_container {
-    width: 75%;
-    margin-top: 20px;
-    background-color: aqua;
+    width: 90%;
+    margin: 20px auto;
 }
+
+.scope_image_container img {
+    object-fit: cover;
+    width: 100%;
+    border-radius: 50%;
+}
+
+
 
 .course_scope_section span,
 .course_schedule_section span {
     font-weight: 600;
 }
 
-.course_scope_section,
+.course_scope_section li,
 .course_schedule_section li {
     margin-top: 15px;
 }
