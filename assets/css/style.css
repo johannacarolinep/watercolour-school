@@ -895,6 +895,15 @@ footer address {
         padding-top: 50px;
     }
 
+    .course_details_left_container {
+        width: 35%;
+        min-height: 360px;
+    }
+
+    .course_details_price_div {
+        width: 60%;
+    }
+
     .course_scope_section {
         display: flex;
         justify-content: space-between;
