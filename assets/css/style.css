@@ -419,12 +419,22 @@ ul {
     border-radius: 50%;
 }
 
+.paints_ul {
+    list-style-type: disc;
+    list-style-position: inside;
+    margin: 15px 5px 30px 0;
+    font-size: 1rem;
+}
+
+.paints_ul span {
+    font-weight: 600;
+}
+
 .materials_outro {
     background-color: #ffffff;
     font-size: 1.2rem;
     padding: 25px 15px;
     margin-top: 30px;
-
 }
 
 
