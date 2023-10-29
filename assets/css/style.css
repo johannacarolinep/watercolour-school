@@ -1037,6 +1037,46 @@ footer address {
         align-self: center;
     }
 
+    /* Materials page styles desktop */
+    .materials_h1 {
+        width: 85%;
+        margin: 30px auto 5px auto;
+        max-width: 1200px;
+        padding: 0 20px;
+    }
+
+    .materials_intro {
+        margin: 0px auto 30px auto;
+        font-size: 1.2rem;
+        width: 85%;
+        max-width: 1200px;
+        padding: 0 20px;
+    }
+
+    .materials_ul {
+        width: 85%;
+        max-width: 1200px;
+    }
+
+    .materials_li {
+        display: flex;
+    }
+
+    .materials_li_content {
+        width: 75%;
+    }
+
+    .materials_image_container {
+        width: 20%;
+    }
+
+    .materials_outro {
+        padding: 25px 30px;
+        width: 85%;
+        max-width: 1200px;
+        margin: 50px auto;
+        border: 10px dotted #fffb00;
+    }
 
 
     /*Signup page*/
@@ -1058,4 +1098,11 @@ footer address {
         margin-top: 40px;
     }
 
+}
+
+/*Media query for large screens - screen size 1180px or wider*/
+@media screen and (min-width: 1180px) {
+    .paints_ul li {
+        width: 32%;
+    }
 }
