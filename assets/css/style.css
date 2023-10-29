@@ -673,6 +673,22 @@ footer address {
         display: none;
     }
 
+    .scope_image_container {
+        width: 50%;
+        margin: 30px auto 10px auto;
+    }
+
+    .course_scope_section span,
+    .course_schedule_section span {
+        font-weight: 700;
+    }
+
+    .course_scope_section li,
+    .course_schedule_section li {
+        margin-top: 30px;
+    }
+
+
     /*Signup page*/
     .signup-section {
         display: flex;
@@ -857,6 +873,8 @@ footer address {
         margin-top: 5%;
         font-size: 1.1rem;
     }
+
+
 
     /*Signup page*/
     .signup-section {
