@@ -382,7 +382,7 @@ ul {
     padding: 15px;
 }
 
-/* Materials page styles */
+/* Materials page styles mobile */
 .materials_h1 {
     margin: 15px 15px 5px 15px;
 }
@@ -405,7 +405,6 @@ ul {
     padding: 20px 15px;
     background-color: #ffffff;
     margin: 10px 0;
-
 }
 
 .materials_image_container {
@@ -740,6 +739,47 @@ footer address {
     .course_scope_section li,
     .course_schedule_section li {
         margin-top: 30px;
+    }
+
+    /* Materials page styles tablet */
+    .materials_h1 {
+        margin: 30px 0 5px 30px;
+    }
+
+    .materials_intro {
+        margin: 0px 15px 30px 30px;
+        font-size: 1.2rem;
+    }
+
+    .materials_ul {
+        width: 95%;
+        margin: auto;
+    }
+
+    .materials_li {
+        display: flex;
+    }
+
+    .materials_li_content {
+        width: 70%;
+        font-size: 1rem;
+        padding: 20px;
+    }
+
+    .materials_image_container {
+        width: 25%;
+        margin: auto;
+        padding: 20px 0;
+    }
+
+    .paints_ul {
+        margin: 20px 0 0 0;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .paints_ul li {
+        width: 50%;
     }
 
 
