@@ -623,11 +623,11 @@ footer address {
     }
 
     .course_article h1 {
-        padding: 20px 40px 5px 40px;
+        padding: 20px 30px 5px 30px;
     }
 
     #course_intro_section {
-        padding: 5px 40px;
+        padding: 5px 30px;
     }
 
     .course_details_section {
@@ -872,6 +872,66 @@ footer address {
     .user-art-social a {
         margin-top: 5%;
         font-size: 1.1rem;
+    }
+
+    /* Course info page styles */
+    .course_article {
+        width: 85%;
+        max-width: 1200px;
+        margin: 30px auto;
+        background-color: #f4f3ea;
+    }
+
+    .course_article section {
+        width: 100%;
+    }
+
+    #course_intro_section {
+        background-color: #ffffff;
+    }
+
+    .course_article h1 {
+        background-color: #ffffff;
+        padding-top: 50px;
+    }
+
+    .course_scope_section {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+        background-color: #ffffff;
+        margin-top: 50px;
+    }
+
+    .scope_image_container {
+        width: 25%;
+        margin: auto;
+    }
+
+    .scope_text_container {
+        width: 65%;
+    }
+
+    .course_schedule_section {
+        background-color: #ffffff;
+        margin-top: 50px;
+    }
+
+    /* CTA section */
+    .course_cta_section {
+        background-color: #ffffff;
+        margin-top: 50px;
+    }
+
+    .course_cta_container {
+        padding: 0;
+    }
+
+    .course_cta_container a {
+        font-size: 1.6rem;
+        padding: 20px;
+        width: 200px;
+        align-self: center;
     }
 
 
