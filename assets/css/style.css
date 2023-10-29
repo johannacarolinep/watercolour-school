@@ -619,11 +619,11 @@ footer address {
 
     /* Course info page styles */
     .course_article section {
-        padding: 30px 40px;
+        padding: 50px 30px;
     }
 
     .course_article h1 {
-        padding: 0 40px;
+        padding: 20px 40px 5px 40px;
     }
 
     #course_intro_section {
