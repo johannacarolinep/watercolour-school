@@ -382,6 +382,50 @@ ul {
     padding: 15px;
 }
 
+/* Materials page styles */
+.materials_h1 {
+    margin: 15px 15px 5px 15px;
+}
+
+.materials_intro {
+    margin: 0px 15px 30px 15px;
+    font-size: 1.2rem;
+}
+
+.materials_ul {
+    width: 95%;
+    margin: auto;
+}
+
+.materials_ul p {
+    font-size: 1.2rem;
+}
+
+.materials_li {
+    padding: 20px 15px;
+    background-color: #ffffff;
+    margin: 10px 0;
+
+}
+
+.materials_image_container {
+    width: 70%;
+    margin: 25px auto;
+}
+
+.materials_image_container img {
+    object-fit: cover;
+    width: 100%;
+    border-radius: 50%;
+}
+
+.materials_outro {
+    background-color: #ffffff;
+    font-size: 1.2rem;
+    padding: 25px 15px;
+    margin-top: 30px;
+
+}
 
 
 /*Sign up page styles */
