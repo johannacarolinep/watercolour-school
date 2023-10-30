@@ -410,6 +410,7 @@ ul {
 
 .materials_image_container {
     width: 70%;
+    max-width: 225px;
     margin: 25px auto;
 }
 
