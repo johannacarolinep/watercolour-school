@@ -186,7 +186,7 @@ main {
 .text-section {
     background-color: #ffffff;
     padding: 20px;
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
 
 .right-align {
@@ -216,7 +216,7 @@ main {
 }
 
 .quote {
-    font-size: 1.2rem;
+    font-size: 1rem;
     font-style: italic;
 }
 
@@ -230,7 +230,7 @@ main {
     padding: 20px;
     margin: 15px 0;
     min-height: 200px;
-    font-size: 1.2rem;
+    font-size: 1rem;
     line-height: 300%;
 }
 
@@ -240,7 +240,7 @@ main {
 
 .big-bold-text {
     font-weight: 700;
-    font-size: 1.4rem;
+    font-size: 1.3rem;
 }
 
 .button-info-box {
@@ -285,7 +285,7 @@ main {
 .course_article {
     background-color: #ffffff;
     padding-top: 30px;
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
 
 .course_article section {
@@ -395,7 +395,7 @@ ul {
 
 .materials_intro {
     margin: 0px 15px 30px 15px;
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
 
 .materials_ul {
@@ -404,7 +404,7 @@ ul {
 }
 
 .materials_ul p {
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
 
 .materials_li {
@@ -429,7 +429,7 @@ ul {
     list-style-type: disc;
     list-style-position: inside;
     margin: 15px 5px 30px 0;
-    font-size: 1rem;
+    font-size: 0.8rem;
 }
 
 .paints_ul span {
@@ -438,7 +438,7 @@ ul {
 
 .materials_outro {
     background-color: #ffffff;
-    font-size: 1.2rem;
+    font-size: 1rem;
     padding: 25px 15px;
     margin-top: 30px;
 }
@@ -564,7 +564,6 @@ footer address {
         padding: 0 3rem;
         padding-top: 1rem;
         font-size: 2rem;
-
     }
 
     /*Main*/
@@ -591,7 +590,7 @@ footer address {
     /*Course overview section*/
     .text-section {
         padding: 40px;
-        font-size: 1.3rem;
+        font-size: 1.1rem;
     }
 
     /*Testimonial section*/
@@ -613,7 +612,7 @@ footer address {
     }
 
     .quote {
-        font-size: 1.3rem;
+        font-size: 1.1rem;
     }
 
     /*Info box section*/
@@ -687,6 +686,7 @@ footer address {
 
     #course_intro_section {
         padding: 5px 30px;
+        font-size: 1.1rem;
     }
 
     .course_details_section {
@@ -697,6 +697,7 @@ footer address {
         display: flex;
         justify-content: space-between;
         margin-bottom: 15px;
+        font-size: 1.1rem;
 
     }
 
@@ -737,6 +738,11 @@ footer address {
         margin: 50px auto 0px auto;
     }
 
+    .course_scope_section,
+    .course_schedule_section {
+        font-size: 1.1rem;
+    }
+
     .course_scope_section span,
     .course_schedule_section span {
         font-weight: 700;
@@ -754,7 +760,7 @@ footer address {
 
     .materials_intro {
         margin: 0px 15px 30px 30px;
-        font-size: 1.2rem;
+        font-size: 1.1rem;
     }
 
     .materials_ul {
@@ -786,6 +792,10 @@ footer address {
 
     .paints_ul li {
         width: 50%;
+    }
+
+    .materials_outro {
+        font-size: 1.1rem;
     }
 
 
@@ -909,6 +919,7 @@ footer address {
         padding: 40px;
         margin: auto;
         margin-top: 30px;
+        font-size: 1.2rem;
     }
 
     /*Testimonial section*/
@@ -923,6 +934,10 @@ footer address {
         padding-left: 40px;
     }
 
+    .quote {
+        font-size: 1.2rem;
+    }
+
     /*Info box section*/
 
     .info-box-section {
@@ -933,7 +948,7 @@ footer address {
     .info-box-div {
         padding: 15px;
         min-height: 150px;
-        font-size: 1rem;
+        font-size: 1.1rem;
         line-height: 300%;
         flex-basis: 32%;
     }
@@ -992,6 +1007,7 @@ footer address {
 
     #course_intro_section {
         background-color: #ffffff;
+        font-size: 1.2rem;
     }
 
     .course_article h1 {
@@ -1014,6 +1030,7 @@ footer address {
         width: 100%;
         background-color: #ffffff;
         margin-top: 50px;
+        font-size: 1.2rem;
     }
 
     .scope_image_container {
@@ -1030,6 +1047,7 @@ footer address {
     .course_schedule_section {
         background-color: #ffffff;
         margin-top: 50px;
+        font-size: 1.2rem;
     }
 
     /* CTA section */
@@ -1070,6 +1088,10 @@ footer address {
         max-width: 1200px;
     }
 
+    .materials_ul p {
+        font-size: 1.2rem;
+    }
+
     .materials_li {
         display: flex;
     }
@@ -1082,12 +1104,17 @@ footer address {
         width: 20%;
     }
 
+    .paints_ul {
+        font-size: 1rem;
+    }
+
     .materials_outro {
         padding: 25px 30px;
         width: 85%;
         max-width: 1200px;
         margin: 50px auto;
         border: 10px dotted #fffb00;
+        font-size: 1.2rem;
     }
 
 
