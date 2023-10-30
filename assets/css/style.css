@@ -45,12 +45,12 @@ h3 {
 }
 
 .button:hover {
-    background-color: #f6e900;
-    box-shadow: 2px 2px 5px rgb(190, 188, 188);
+    background-color: #ead200;
+    box-shadow: 0 0 10px rgb(148, 145, 132);
 }
 
 .button:active {
-    box-shadow: 2px 2px 5px rgb(76, 74, 74);
+    box-shadow: 0 0 15px rgb(89, 87, 78);
 }
 
 
