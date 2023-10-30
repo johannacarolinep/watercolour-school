@@ -344,8 +344,9 @@ ul {
 }
 
 .scope_image_container {
-    width: 90%;
-    margin: 20px auto;
+    width: 80%;
+    max-width: 320px;
+    margin: 30px auto 15px auto;
 }
 
 .scope_image_container img {
@@ -726,8 +727,8 @@ footer address {
     }
 
     .scope_image_container {
-        width: 50%;
-        margin: 30px auto 10px auto;
+        width: 320px;
+        margin: 50px auto 0px auto;
     }
 
     .course_scope_section span,
@@ -1010,12 +1011,14 @@ footer address {
     }
 
     .scope_image_container {
-        width: 25%;
-        margin: auto;
+        width: 280px;
+        margin: auto 0;
     }
 
     .scope_text_container {
-        width: 65%;
+        width: 67%;
+        padding-right: 20px;
+        flex-grow: 1;
     }
 
     .course_schedule_section {
