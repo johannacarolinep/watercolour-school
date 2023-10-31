@@ -491,15 +491,16 @@ ul {
     object-fit: cover;
 }
 
-/* Response page */
+/* Response page styles mobile */
 .response-section {
     background-color: white;
     margin: 20px auto;
     width: 90%;
+    padding: 15px;
 }
 
 .response-container {
-    padding: 15px;
+    padding: 10px;
 }
 
 .response-container i {
@@ -844,15 +845,14 @@ footer address {
     /*Response page styles tablet*/
     .response-section {
         display: flex;
-        margin-top: 10%
+        margin-top: 10%;
+        padding: 20px;
     }
 
     .response-container {
-        flex-basis: 50%;
-        padding-top: 40px;
+        width: 50%;
+        margin: 10px auto 10px auto;
     }
-
-
 
     /*Footer*/
     footer {
@@ -1156,11 +1156,15 @@ footer address {
         width: 55%;
     }
 
-    /* Response page */
+    /* Response page styles desktop */
     .response-section {
         width: 80%;
-        max-width: 1000px;
+        max-width: 1200px;
         margin-top: 40px;
+    }
+
+    .response-container {
+        width: 45%;
     }
 }
 
