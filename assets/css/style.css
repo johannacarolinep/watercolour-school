@@ -167,7 +167,7 @@ main {
     position: relative;
 }
 
-#text-overlay {
+#hero-text-container {
     background-color: rgba(245, 244, 249, 0.786);
     font-size: 120%;
     width: 80%;
@@ -583,7 +583,7 @@ footer address {
     }
 
     /*Hero*/
-    #text-overlay {
+    #hero-text-container {
         font-size: 140%;
         padding: 40px 30px;
     }
@@ -912,7 +912,7 @@ footer address {
         max-width: none;
     }
 
-    #text-overlay {
+    #hero-text-container {
         font-size: 140%;
         padding: 40px 30px;
         width: 85%;
