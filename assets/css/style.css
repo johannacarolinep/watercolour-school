@@ -1165,6 +1165,7 @@ footer address {
 
     .response-container {
         width: 45%;
+        padding-left: 25px;
     }
 }
 
