@@ -1,39 +1,167 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+![Watercolour School logo](documentation/watercolour_school_logo.png)
 
-Welcome,
-
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
-
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
-
-## Codeanywhere Reminders
-
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
-
-`python3 -m http.server`
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
-
-`http_server`
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+INSERT WATERSCHOOL LOGO HERE
 
 ---
 
-Happy coding!
+# *Watercolour School*
+
+The Watercolour School website allows users to learn about the company's beginner's watercolour course. Visitors of the website can read about the course, register for the course, and find information on materials they will need in order to participate in the course.
+
+The site can be accessed by this [link](https://johannacarolinep.github.io/watercolour-school/)
+
+INSERT RESPONSIVE MOCKUP HERE
+
+---
+## User Stories
+
+### First Time Visitor Goals:
+
+* 
+
+### Returning VisitorGoals:
+
+### Frequent Visitor Goals:
+
+
+## Features
+
++ ### Navbar
+
++ ##### Navigation
+    
+
+
+---
+
++ ### Home Page
+
+
+---
+
++ #### Hero Section
+
+
+--- 
+
++ #### Course overview Section
+
+
+    ---
++ #### Testimonials Section
+
+
+
+---
++ #### User art section
+
+---
++ #### Call to action section
+
+
+---
++ #### Footer
+
+
+---
++ ### Course info page
+
+
+
+---
++ ### Materials page
+
+
+
+---
++ ### Sign up page
+
+
+---
++ ### Response page
+
+
+---
+## Technologies Used
+
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) was used as the foundation of the site.
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - was used to add the styles and layout of the site.
+- [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) - was used to arrange items simmetrically on the pages.
+- [Balsamiq](https://balsamiq.com/) was used to make wireframes for the website.
+- [VSCode](https://code.visualstudio.com/) was used as the main tool to write and edit code.
+- [Git](https://git-scm.com/) was used for the version control of the website.
+- [GitHub](https://github.com/) was used to host the code of the website.
+- [GIMP](https://www.gimp.org/) was used to make and resize images.
+
+
+---
+## Design
+
+### Color Scheme
+
+
+- Bright yellow was used as the main accent color of the website. Attention and creativity. 
+
+- A mix of soft beige and clean white was used as background colors. Complements the strong accent color. Neutral. Colourful images not clashing with the background. Provides a strong contrast between both text and yelow accent elements such as buttons, and the background. 
+
+- A dark brown was used for body text on the website, to give a slightly softer impression. 
+
+
+### Typography
+
+
+- Poppins Google Font was used as the main font throughout the website. This was chosen for high readbility of the content.
+
+
+- Life Savers Google Font was used for the company logo. The intention of choosing Life Savers for this purpose was to attract users attention to the logo, and to communicate the creative nature of the company.
+
+
+### Wireframes
+
+#### Mobile devices
+
+#### Tablets
+
+#### Desktop
+
+---
+
+## Testing
+
+---
+
+## Deployment
+
+### Deployment to GitHub Pages
+
+
+
+### Local Deployment
+
+---
+
+## Future improvements
+
+
+---
+## Credits
+
++ #### Content
+
+    
+
++ #### Media
+
+    
+
+
++ #### Tools
+
+    - [GIMP](https://www.gimp.org/) was used to edit and resize all images.
+
+---
+
+## Acknowledgments
+
+
+---
