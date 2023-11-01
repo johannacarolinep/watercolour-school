@@ -482,6 +482,10 @@ ul {
     padding-bottom: 15px;
 }
 
+.submit-button {
+    margin-bottom: 10px;
+}
+
 .signup-picture {
     width: 100%;
 }
