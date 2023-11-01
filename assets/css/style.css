@@ -438,7 +438,7 @@ ul {
     flex-wrap: wrap;
     justify-content: space-evenly;
     background-color: #f4f3ea;
-    padding: 5px 0;
+    padding: 5px 0 5px 5px;
 }
 
 .paints_ul li {
@@ -1141,6 +1141,7 @@ footer address {
     .paints_ul {
         font-size: 1rem;
         justify-content: flex-start;
+        padding: 5px 10px;
     }
 
     .paints_ul li {
