@@ -1160,13 +1160,13 @@ footer address {
 
     /* Sign up page styles desktop */
     .signup-section {
-        width: 80%;
+        width: 70%;
         max-width: 1200px;
         margin-top: 40px;
     }
 
     .signup-container {
-        width: 45%;
+        width: 50%;
     }
 
     #signup-form {
@@ -1174,18 +1174,18 @@ footer address {
     }
 
     .signup-picture {
-        width: 55%;
+        width: 50%;
     }
 
     /* Response page styles desktop */
     .response-section {
-        width: 80%;
+        width: 70%;
         max-width: 1200px;
         margin-top: 40px;
     }
 
     .response-container {
-        width: 45%;
+        width: 50%;
         padding-left: 25px;
     }
 }
