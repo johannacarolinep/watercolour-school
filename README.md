@@ -10,7 +10,7 @@ The Watercolour School website allows users to learn about the company's beginne
 
 The site can be accessed by this [link](https://johannacarolinep.github.io/watercolour-school/)
 
-INSERT RESPONSIVE MOCKUP HERE
+![Watercolour School responsive mockup](documentation/mockup-devices.png)
 
 ---
 ## User Stories
