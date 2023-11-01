@@ -17,11 +17,32 @@ INSERT RESPONSIVE MOCKUP HERE
 
 ### First Time Visitor Goals:
 
-* 
+* As a First Time Visitor landing on the home page, I want to be able to quickly understand that this is a Watercolour school website from above-the-fold elements, so that I can quickly establish that the website matches my search criteria.
 
-### Returning VisitorGoals:
+* As a First Time Visitor landing on the home page, I want to be able to understand the theme of the resources from the navigation bar and section headings, so that I can gain an overview of the page resources and decide that they match my expectations.
+
+* As a First Time Visitor landing on the home page, I want to be able to easily navigate through the website, so that I can gain an overview of the information and understand its structure in an intuitive way.
+
+* As a First Time Visitor considering if the course may be of interest to me, I want to see testimonials and/or other social proof of the course, so I can see that the course provider is trustworthy and that other students have found the course useful and/or enjoyable.
+
+* As a First Time Visitor considering if the course may be of interest to me, I want the tone of the website to be encouraging and inspirational, so that I can feel motivated to consider the course.
+
+### Returning Visitor Goals:
+* As a Returning Visitor, I want to see more detailed information about the course, its scope and structure, helping me to decide if the course is right for me.
+
+* As a Returning Visitor, I want to see transparent information about pricing, supporting my decision to register for the course.
+
+* As a Returning Visitor, I want to understand what materials I am expected to bring to the course, if I choose to register, so that I can understand what other costs are involved.
+
+* As a Returning Visitor, I want to see community links, so that I can research the course further.
+
+* As a Returning Visitor, I want to see that course registration is available, easy and quick, so that registration does not feel as a big task for me.
+
+* As a Returning Visitor who have signed up for the course, I want to be informed of what happens next, how I will pay for the course and when I will hear from the company, so that I feel safe and know what to expect.
 
 ### Frequent Visitor Goals:
+
+* As a Frequent Visitor, I want to be able to find contact details of the organisation, in case I have questions not answered on the website.
 
 
 ## Features
