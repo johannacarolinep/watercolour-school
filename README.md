@@ -107,12 +107,8 @@ INSERT RESPONSIVE MOCKUP HERE
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) was used as the foundation of the site.
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - was used to add the styles and layout of the site.
-- [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) - was used to arrange items simmetrically on the pages.
-- [Balsamiq](https://balsamiq.com/) was used to make wireframes for the website.
-- [VSCode](https://code.visualstudio.com/) was used as the main tool to write and edit code.
 - [Git](https://git-scm.com/) was used for the version control of the website.
-- [GitHub](https://github.com/) was used to host the code of the website.
-- [GIMP](https://www.gimp.org/) was used to make and resize images.
+
 
 
 ---
@@ -120,19 +116,22 @@ INSERT RESPONSIVE MOCKUP HERE
 
 ### Color Scheme
 
+![Colour scheme](documentation/colour-scheme.png)
 
 - Bright yellow was used as the main accent color of the website. Attention and creativity. 
 
 - A mix of soft beige and clean white was used as background colors. Complements the strong accent color. Neutral. Colourful images not clashing with the background. Provides a strong contrast between both text and yelow accent elements such as buttons, and the background. 
 
-- A dark brown was used for body text on the website, to give a slightly softer impression. 
+- A very dark brown was used for body text on the website, to give a slightly softer impression. 
 
 
 ### Typography
 
+![Colour scheme](documentation/font-poppins.png)
 
 - Poppins Google Font was used as the main font throughout the website. This was chosen for high readbility of the content.
 
+![Colour scheme](documentation/font-lifesavers.png)
 
 - Life Savers Google Font was used for the company logo. The intention of choosing Life Savers for this purpose was to attract users attention to the logo, and to communicate the creative nature of the company.
 
@@ -178,7 +177,11 @@ INSERT RESPONSIVE MOCKUP HERE
 
 + #### Tools
 
+    - [Balsamiq](https://balsamiq.com/) was used to make wireframes for the website.
+    - [VSCode](https://code.visualstudio.com/) was used as the main tool to write and edit code.
     - [GIMP](https://www.gimp.org/) was used to edit and resize all images.
+    - [GitHub](https://github.com/) was used to host the code of the website.
+    - [Colormind] (http://colormind.io/) was used to generate the color scheme for the website.
 
 ---
 
