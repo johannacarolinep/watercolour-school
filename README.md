@@ -160,10 +160,19 @@ The site can be accessed by this [link](https://johannacarolinep.github.io/water
 ## Deployment
 
 ### Deployment to GitHub Pages
+The webpages are deployed to GitHub pages, using git version control. The steps to deployment are as follows:
+- In the GitHub repository, navigate to the Settings tab.
+- From the source section drop-down menu, select the Main Branch, then click "Save".
 
+Once a push is detected to the Main branch GitHub will update the webpages with the new code in the Main branch.
 
+The live link can be found [here](https://johannacarolinep.github.io/watercolour-school/).
 
-### Local Deployment
+If you wish to run the website locally you can clone it by typing the following command in your IDE Terminal:
+- `git clone https://github.com/johannacarolinep/watercolour-school.git`
+
+Once on your local computer you can open the index.html with a web browser. 
+
 
 ---
 
