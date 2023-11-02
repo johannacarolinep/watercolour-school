@@ -112,11 +112,11 @@ The site can be accessed by this [link](https://johannacarolinep.github.io/water
 - [VSCode](https://code.visualstudio.com/) was used as the main tool to write and edit code.
 - [GIMP](https://www.gimp.org/) was used to edit and resize all images.
 - [GitHub](https://github.com/) was used to host the code of the website.
+- [Colormind](http://colormind.io/) was used to generate the colour scheme for the website.
 - [W3C Markup Validation Service](https://validator.w3.org/) was used to validate the HTML code of the website.
 - [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) was used to validate the CSS code of the website.
-- [Colormind](http://colormind.io/) was used to generate the colour scheme for the website.
 - [MacOS VoiceOver](https://support.apple.com/guide/voiceover/welcome/mac) was used to understand screenreader accessibility on the website.
-
+-[Device Shots](https://deviceshots.com/) was used to create mockups of the website for the README.
 
 ---
 ## Design
@@ -173,16 +173,39 @@ The site can be accessed by this [link](https://johannacarolinep.github.io/water
 ---
 ## Credits
 
-+ #### Content
+### Content
+- [Shawn Reisner - Codepen.io](https://codepen.io/sreisner/pen/yOOOjx) - This code, with minor adjustments was used to create the nav link underline effect on hover (on large screens).
 
-    
+### Media
+#### Images
+All images were taken from [Pixabay](https://pixabay.com/), [Pexels](https://www.pexels.com/), and [Unsplash](https://unsplash.com/).
 
-+ #### Media
+In order of appearance:
+- [Hero image, Home page](https://www.pexels.com/photo/a-used-watercolor-palette-7859492/) (Pexels)
 
-    
+- [Testimonal section image, Home page](https://unsplash.com/photos/woman-in-white-crew-neck-shirt-smiling-IF9TK5Uy-KI) (Unsplash)
 
+- [1st image in User Art section, Home page](https://pixabay.com/illustrations/paint-flower-floral-spring-blossom-2421585/) (Pixabay)
+- [2nd image in User Art section, Home page](https://pixabay.com/illustrations/watercolor-painting-art-artistic-5852721/) (Pixabay)
+- [3rd image in User Art section, Home page](https://pixabay.com/illustrations/green-tree-forest-nature-3140057/) (Pixabay)
+- [4th image in User Art section, Home page](https://unsplash.com/photos/white-and-orange-cat-painting-KRztl5I6xac) (Unsplash)
 
-+ 
+- [Course details section image, Course info page](https://pixabay.com/vectors/paint-brush-art-to-paint-painting-4901102/) (Pixabay)
+
+- [Course scope image, Course info page](https://www.pexels.com/photo/a-person-holding-white-paper-with-rainbow-colors-7898407/) (Pexels)
+
+- [Watercolor paper section, Materials page](https://pixabay.com/photos/hands-paint-brush-painting-1868562/) (Pixabay)
+
+- [Brushes section, Materials page](https://pixabay.com/photos/brushes-art-paint-tool-decor-1683134/) (Pixabay)
+
+- [Watercolour paints section, Materials page](https://pixabay.com/photos/tubes-of-paint-art-artists-tools-7761437/) (Pixabay)
+
+- [Masking tape section, Materials page](https://pixabay.com/photos/paint-brush-flat-brush-masking-tape-3175639/) (Pixabay)
+
+- [Main image, Sign up page and Response page](https://pixabay.com/photos/paint-brush-to-paint-colour-4030050/) (Pixabay)
+
+#### Icons
+All icons were taken from [Font Awesome](https://fontawesome.com/icons).
 
 ---
 
