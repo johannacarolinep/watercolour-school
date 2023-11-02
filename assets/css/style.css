@@ -523,7 +523,7 @@ footer {
 }
 
 footer div {
-    margin: 1rem 0.5rem;
+    margin: 1rem 1rem;
 }
 
 footer address {
@@ -870,7 +870,7 @@ footer address {
         margin: 10px auto 10px auto;
     }
 
-    /*Footer*/
+    /* Footer */
     footer {
         display: flex;
         justify-content: space-between;
@@ -1205,6 +1205,12 @@ footer address {
     .response-container {
         width: 50%;
         padding-left: 25px;
+    }
+
+    /* Footer */
+    footer div {
+        margin: 1.5rem 1.5rem;
+        font-size: 1.1rem;
     }
 }
 
