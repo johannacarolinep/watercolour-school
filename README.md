@@ -103,11 +103,20 @@ The site can be accessed by this [link](https://johannacarolinep.github.io/water
 
 
 ---
-## Technologies Used
+## Technologies and tools used
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) was used as the foundation of the site.
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - was used to add the styles and layout of the site.
 - [Git](https://git-scm.com/) was used for the version control of the website.
+- [Balsamiq](https://balsamiq.com/) was used to make wireframes for the website.
+- [VSCode](https://code.visualstudio.com/) was used as the main tool to write and edit code.
+- [GIMP](https://www.gimp.org/) was used to edit and resize all images.
+- [GitHub](https://github.com/) was used to host the code of the website.
+- [W3C Markup Validation Service](https://validator.w3.org/) was used to validate the HTML code of the website.
+- [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) was used to validate the CSS code of the website.
+- [Colormind](http://colormind.io/) was used to generate the colour scheme for the website.
+- [MacOS VoiceOver](https://support.apple.com/guide/voiceover/welcome/mac) was used to understand screenreader accessibility on the website.
+
 
 ---
 ## Design
@@ -173,13 +182,7 @@ The site can be accessed by this [link](https://johannacarolinep.github.io/water
     
 
 
-+ #### Tools
-
-    - [Balsamiq](https://balsamiq.com/) was used to make wireframes for the website.
-    - [VSCode](https://code.visualstudio.com/) was used as the main tool to write and edit code.
-    - [GIMP](https://www.gimp.org/) was used to edit and resize all images.
-    - [GitHub](https://github.com/) was used to host the code of the website.
-    - [Colormind] (http://colormind.io/) was used to generate the colour scheme for the website.
++ 
 
 ---
 
