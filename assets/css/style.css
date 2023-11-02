@@ -348,6 +348,13 @@ ul {
     margin: auto;
 }
 
+.course_details_price_div img {
+    width: 100%;
+    max-width: 300px;
+    margin: auto;
+    display: block;
+}
+
 .course_scope_section {
     background-color: #f4f3ea;
 }
@@ -706,7 +713,7 @@ footer address {
         line-height: 1.5rem;
     }
 
-    /* Course info page styles */
+    /* Course info page styles tablet */
     .course_article section {
         padding: 50px 30px;
     }

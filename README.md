@@ -36,7 +36,7 @@ The site can be accessed by this [link](https://johannacarolinep.github.io/water
 
 * As a Returning Visitor, I want to see community links, so that I can research the course further.
 
-* As a Returning Visitor, I want to see that course registration is available, easy and quick, so that registration does not feel as a big task for me.
+* As a Returning Visitor, I want to see that course registration is available, easy, and quick, so that the registration process does not feel as a big task for me.
 
 * As a Returning Visitor who have signed up for the course, I want to be informed of what happens next, how I will pay for the course and when I will hear from the company, so that I feel safe and know what to expect.
 
@@ -109,8 +109,6 @@ The site can be accessed by this [link](https://johannacarolinep.github.io/water
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - was used to add the styles and layout of the site.
 - [Git](https://git-scm.com/) was used for the version control of the website.
 
-
-
 ---
 ## Design
 
@@ -181,7 +179,7 @@ The site can be accessed by this [link](https://johannacarolinep.github.io/water
     - [VSCode](https://code.visualstudio.com/) was used as the main tool to write and edit code.
     - [GIMP](https://www.gimp.org/) was used to edit and resize all images.
     - [GitHub](https://github.com/) was used to host the code of the website.
-    - [Colormind] (http://colormind.io/) was used to generate the color scheme for the website.
+    - [Colormind] (http://colormind.io/) was used to generate the colour scheme for the website.
 
 ---
 
