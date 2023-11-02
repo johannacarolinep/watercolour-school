@@ -922,7 +922,7 @@ footer address {
     /* Create underline hover effect - credit: Codepen.io */
     .navbar a::before {
         transition: 500ms;
-        height: 3px;
+        height: 2px;
         content: "";
         position: absolute;
         background-color: #000000;
@@ -931,8 +931,8 @@ footer address {
     }
 
     .navbar a:hover::before {
-        width: calc(100% - 3.6rem);
-        left: 1.8rem;
+        width: calc(100% - 3.4rem);
+        left: 1.7rem;
     }
 
     /*Main*/
