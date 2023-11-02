@@ -201,7 +201,6 @@ main {
 .testimonial-container {
     display: flex;
     flex-direction: column;
-    align-items: space-around;
 }
 
 .testimonial-container img {
