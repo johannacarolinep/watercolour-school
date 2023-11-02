@@ -556,6 +556,10 @@ footer address {
         margin-top: 5px;
     }
 
+    .fine_print {
+        font-size: 85%;
+    }
+
     /* Header styles tablets */
     header {
         flex-direction: column;
