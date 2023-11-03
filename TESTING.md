@@ -108,26 +108,27 @@ All web pages' performance and accessibility were assessed using Lighthouse in G
 
 ## Code validation
 ### HTML
-#### Home page
+No errors were found when validating the web pages with the official W3C HTML Markup Validator.
 
-#### Course info page
+- Home page
+![Validator results for the Home page](documentation/html-validation-homepage.png)
 
-#### Materials page
+- Course info page
+![Validator results for the Course info page](documentation/html-validation-course-info-page.png)
 
-#### Sign up page
+- Materials page
+![Validator results for the Materials page](documentation/html-validation-materials-page.png)
 
-#### Response page
+- Sign-up page
+![Validator results for the Sign-up page](documentation/html-validation-signup-page.png)
+
+- Response page
+![Validator results for the Response page](documentation/html-validation-response-page.png)
 
 ### CSS
-#### Home page
+No errors were found when validating the website with the official W3C CSS validator.
 
-#### Course info page
-
-#### Materials page
-
-#### Sign up page
-
-#### Response page
+![CSS validation results for the website](documentation/css-validation.png)
 
 
 
