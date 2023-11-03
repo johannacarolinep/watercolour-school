@@ -38,17 +38,42 @@ The below links contain PDF files with screenshots from all web pages across dev
 
 ## Lighthouse report
 
+All web pages' performance and accessibility were assessed using Lighthouse in Google's developer tools.
 
+### Desktop Lighthouse results:
 
-### Home page
+#### Homepage
+![Homepage - Desktop](documentation/lh-homepage-desktop.png)
 
-### Course info page
+#### Course info page
+![Course info page - Desktop](documentation/lh-course-info-page-desktop.png)
 
-### Materials page
+#### Materials page
+![Materials page - Desktop](documentation/lh-materials-page-desktop.png)
 
-### Sign up page
+#### Sign up page
+![Sign-up page - Desktop](documentation/lh-signup-page-desktop.png)
 
-### Response page
+#### Response page
+![Response page - Desktop](documentation/lh-response-page-desktop.png)
+
+### Mobile Lighthouse results:
+
+#### Homepage
+![Homepage - Mobile](documentation/lh-homepage-mobile.png)
+
+#### Course info page
+![Course info page - Mobile](documentation/lh-course-info-page-mobile.png)
+
+#### Materials page
+![Materials page - Mobile](documentation/lh-materials-page-mobile.png)
+
+#### Sign up page
+![Sign-up page - Mobile](documentation/lh-signup-page-mobile.png)
+
+#### Response page
+![Response page - Mobile](documentation/lh-response-page-mobile.png)
+
 
 ## Code validation
 ### HTML
