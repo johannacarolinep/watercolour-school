@@ -25,8 +25,8 @@ Source: [Statcounter GlobalStats](https://gs.statcounter.com/browser-market-shar
 ## Responsiveness
 Screenshots across different devices
 
-Home page:
-- [Hero section](documentation/responsive-home-page-hero.pdf) 
+- [Home page](documentation/home-page.pdf)
+- [Course info page](documentation/course-info-page.pdf)
 
 
 ## Manual testing
