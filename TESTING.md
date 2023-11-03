@@ -24,6 +24,9 @@ Source: [Statcounter GlobalStats](https://gs.statcounter.com/browser-market-shar
 
 ## Responsiveness
 
+- [iPhone 12 Pro](documentation/iphone12pro.pdf) 
+
+
 ## Manual testing
 
 ## Lighthouse report
