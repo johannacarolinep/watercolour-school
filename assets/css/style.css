@@ -533,6 +533,10 @@ ul {
     color: black;
 }
 
+.response-social-link {
+    text-decoration: none;
+}
+
 /*Footer*/
 footer {
     background-color: #fffb00;
