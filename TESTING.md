@@ -23,10 +23,15 @@ Source: [Statcounter GlobalStats](https://gs.statcounter.com/browser-market-shar
 
 
 ## Responsiveness
-Screenshots across different devices
+The website responsiveness was checked on numerous device sizes, with Google dev tools as well as the Responsive viewer extension (used to generate the below screenshots).
+
+The below links contain PDF files with screenshots from all web pages across device types:
 
 - [Home page](documentation/home-page.pdf)
 - [Course info page](documentation/course-info-page.pdf)
+- [Materials page](documentation/materials-page.pdf)
+- [Sign up page](documentation/signup-page.pdf)
+- [Response page](documentation/response-page.pdf)
 
 
 ## Manual testing
