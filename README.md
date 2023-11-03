@@ -155,6 +155,8 @@ The site can be accessed by this [link](https://johannacarolinep.github.io/water
 
 ## Testing
 
+All test related documentation can be found in the [TESTING.md](TESTING.md) file.
+
 ---
 
 ## Deployment
