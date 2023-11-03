@@ -23,8 +23,10 @@ Source: [Statcounter GlobalStats](https://gs.statcounter.com/browser-market-shar
 
 
 ## Responsiveness
+Screenshots across different devices
 
-- [iPhone 12 Pro](documentation/iphone12pro.pdf) 
+Home page:
+- [Hero section](documentation/responsive-home-page-hero.pdf) 
 
 
 ## Manual testing
