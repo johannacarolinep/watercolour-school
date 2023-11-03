@@ -38,6 +38,8 @@ The below links contain PDF files with screenshots from all web pages across dev
 
 ## Lighthouse report
 
+
+
 ### Home page
 
 ### Course info page
