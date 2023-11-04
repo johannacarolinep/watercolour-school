@@ -1,9 +1,3 @@
-![Watercolour School logo](documentation/watercolour_school_logo.png)
-
-INSERT WATERSCHOOL LOGO HERE
-
----
-
 # Watercolour School
 
 The Watercolour School website allows users to learn about the company's beginner's watercolour course. Visitors of the website can read about the course, register for the course, and find information on materials they will need in order to participate in the course.
