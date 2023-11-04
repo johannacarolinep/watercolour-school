@@ -100,19 +100,47 @@ The site can be accessed by this [link](https://johannacarolinep.github.io/water
 ---
 + ### Course info page
 
+![Course info page on desktop](documentation/feature-course-info-page.png)
 
+#### Heading and intro section
+![Heading and article intro](documentation/feature-course-info-heading-intro-desktop.png)
+
+#### Course details section
+![Course details section](documentation/feature-course-info-details-section-desktop.png)
+
+#### Course scope section
+![Course scope section](documentation/feature-course-info-scope-section-desktop.png)
+
+#### Course schedule section
+![Course schedule section](documentation/feature-course-info-schedule-desktop.png)
+
+#### CTA section
+![Course article CTA section](documentation/feature-course-info-cta-desktop.png)
 
 ---
-+ ### Materials page
+### Materials page
+![Materials page on desktop](documentation/feature-materials-page-desktop.png)
 
+#### Page intro
+![Materials page heading and intro](documentation/feature-materials-page-intro-desktop.png)
 
+#### List
+![Materials page list](documentation/feature-materials-list-desktop.png)
+
+##### Nested list in the 3rd list item
+![Materials page nested list](documentation/feature-materials-nested-list-desktop.png)
+
+#### Page outro
+![Materials page outro](documentation/feature-materials-outro-desktop.png)
 
 ---
-+ ### Sign up page
 
+### Sign up page
+![Sign up page](documentation/feature-signup-page-desktop.png)
 
 ---
-+ ### Response page
+### Response page
+![Response page](documentation/feature-response-page-desktop.png)
 
 
 ---
