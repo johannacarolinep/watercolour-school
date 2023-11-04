@@ -249,6 +249,8 @@ Lastly the page contains links to the most probably resources the user could wan
 - [Device Shots](https://deviceshots.com/) was used to create mockups of the website for the README.
 - [Responsive Viewer](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb/related?utm_source=ext_sidebar&hl=en-GB) was used to capture screenshots of the website across different device types.
 - [Favicon.io Favicon Generator](https://favicon.io/favicon-generator/) was used to make the favicon for the website
+- [WAVE Tool](https://wave.webaim.org/) was used to test accessibility on the website.
+
 
 ---
 ## Design
@@ -319,7 +321,17 @@ Once on your local computer, you can open the index.html with a web browser.
 ---
 
 ## Future improvements
+- Add more descriptive images. Given the nature of the project, I was constrained to use royalty-free images. Ideally, I would have liked to use different images than the ones I found. This could improve the usefulness of e.g. the Materials page. 
 
+- Add icons to the dropdown navigation links on mobile, to further improve the user experience.
+
+- Research the possibility of making the dropdown menu on mobile devices close when clicking outside of the navigation, compared to the current implementation, in which the menu will only close by clicking on the hamburger icon a second time (or on one of the links).
+
+- Add a custom 404 page that explains why the page is not available and improves the user experience.
+
+- Add an "About the company" page or section to build more credibility for the company.
+
+- Add a visual effect on the form submission button to emphasize successful form submission (before redirecting users to the Response page). E.g. the button text changes.
 
 ---
 ## Credits
