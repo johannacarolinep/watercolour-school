@@ -47,42 +47,55 @@ The site can be accessed by this [link](https://johannacarolinep.github.io/water
 
 ## Features
 
-+ ### Navbar
+### Header
+![Header on desktop](documentation/feature-header-desktop.png)
 
-+ ##### Navigation
-    
+#### Logo
+![Logo](documentation/feature-logo-desktop.png)
 
+#### Navigation
+
+##### On desktop:
+
+![Navigation on desktop](documentation/feature-navbar-desktop.png)
+
+![Navigation on desktop](documentation/feature-navbar-desktop-hover.png)
+
+##### On tablet:
+![Navigation and logo on tablet](documentation/feature-navbar-logo-tablet.png)
+
+##### On mobile:
+![Navigation and logo on mobile](documentation/feature-navbar-logo-mobile.png)
+
+![Navigation opened and logo on mobile](documentation/feature-navbar-open-mobile.png)
+
+---
+
+### Footer
+
+![Footer on desktop](documentation/feature-footer-desktop.png)
 
 ---
 
-+ ### Home Page
+### Home page
+![Home page on desktop](documentation/feature-homepage-desktop.png)
 
+#### Hero section
+![Hero section on desktop](documentation/feature-home-hero-section-desktop.png)
 
----
+![Link styled as button in hero section](documentation/feature-home-hero-button-hover.png)
 
-+ #### Hero Section
+#### Overview section
+![Overview section on desktop](documentation/feature-home-overview-section-dektop.png)
 
+#### Testimonial section
+![Testimonial section on desktop](documentation/feature-home-testimonial-section-desktop.png)
 
---- 
+#### Info box section
+![Info box section on desktop](documentation/feature-home-info-box-section-desktop.png)
 
-+ #### Course overview Section
-
-
-    ---
-+ #### Testimonials Section
-
-
-
----
-+ #### User art section
-
----
-+ #### Call to action section
-
-
----
-+ #### Footer
-
+#### User art section
+![User art section on desktop](documentation/feature-home-user-art-section-desktop.png)
 
 ---
 + ### Course info page

@@ -131,7 +131,6 @@ No errors were found when validating the website with the official W3C CSS valid
 ![CSS validation results for the website](documentation/css-validation.png)
 
 
-
 ## Bugs
 ### Solved bugs
 
