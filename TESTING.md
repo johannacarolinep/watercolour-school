@@ -147,12 +147,36 @@ No errors were found when validating the website with the official W3C CSS valid
     
     Solution: Targeting the social media links with CSS rule text-decoration: none; 
 
-- Incorrectly used role = menuitem for navigation links to improve accessibility. 
+- Incorrectly used "role = menuitem" for navigation links to improve accessibility. 
     When using the WAVE evaluation tool I was alerted to the incorrect use. 
     
-    Solution: After reading more about menuitem, I removed these these attribute and values.
+    Solution: After reading more about "menuitem", I removed these attributes and values.
 
 
 ### Unsolved bugs
+#### Missing form label detected with WAVE Tool:
+Using WAVE I found 1 error in the navigation bar on the website: "A form control does not have a corresponding label."
+
+This is related to the checkbox input used to open the dropdown navigation on mobile screens: 
+    ![Screenshot from WAVE](documentation/wave-error-form-label.png)
+
+Although it is not likely that a lot of screenreader users would be interested in a watercolour course, for future projects it will be more relevant, so fixing this issue is important from a learning perspective. 
+
+##### Steps taken to solve the issue:
+- I have tried adding an *aria-label* to the *label* element, but still got the same error.
+- I have tried adding an *aria-label* to the *input* element, and still got the error.
+- I have tried adding an *aria-label* to the *input* element, while adding *aria-hidden="true"* to the *label* element, and still got the error.
+- Finally, I have tried adding an *aria-label* to the *input* element, while adding *aria-labelledby="the id of the input element"* to the *label* element. With this implementation, the error is solved according to the WAVE tool.
+
+##### Steps remaining to solve the bug: 
+- Even if the WAVE tool no longer reports an error, I can not be sure the code works as intended, and would need to research the use of aria labels in the context of hamburger menus further to confirm the functionality. 
+- Due to time constraints and lack of experience, I will not be able to address this bug fully within the scope of the project. 
+
+
 
 ### Mistakes
+
+#### Inconsistent naming: 
+Throughout most of the project, I named CSS classes using dashes ("-"). Toward the end of the project, I shifted to using underscores ("_") instead, finding it more convenient. This of course resulted in inconsistent naming across the project.
+
+Since I learnt the importance of consistent naming conventions and the effect it has on the readability of the code, I decided to replace the names using underscores in the end, so that all classes are now named consistently, using dashes.
