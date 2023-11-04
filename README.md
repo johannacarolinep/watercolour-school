@@ -265,6 +265,7 @@ Lastly, the page contains links to the most probably resources the user could wa
 - [Responsive Viewer](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb/related?utm_source=ext_sidebar&hl=en-GB) was used to capture screenshots of the website across different device types.
 
 ---
+
 ## Design
 
 ### Colour Scheme
