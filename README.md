@@ -4,7 +4,7 @@ INSERT WATERSCHOOL LOGO HERE
 
 ---
 
-# *Watercolour School*
+# Watercolour School
 
 The Watercolour School website allows users to learn about the company's beginner's watercolour course. Visitors of the website can read about the course, register for the course, and find information on materials they will need in order to participate in the course.
 
@@ -252,21 +252,30 @@ Lastly the page contains links to the most probably resources the user could wan
 - [W3C Markup Validation Service](https://validator.w3.org/) was used to validate the HTML code of the website.
 - [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) was used to validate the CSS code of the website.
 - [MacOS VoiceOver](https://support.apple.com/guide/voiceover/welcome/mac) was used to understand screenreader accessibility on the website.
--[Device Shots](https://deviceshots.com/) was used to create mockups of the website for the README.
+- [Device Shots](https://deviceshots.com/) was used to create mockups of the website for the README.
 - [Responsive Viewer](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb/related?utm_source=ext_sidebar&hl=en-GB) was used to capture screenshots of the website across different device types.
+- [Favicon.io Favicon Generator](https://favicon.io/favicon-generator/) was used to make the favicon for the website
 
 ---
 ## Design
 
-### Color Scheme
+### Colour Scheme
+
+#### Primary colour scheme:
 
 ![Colour scheme](documentation/colour-scheme.png)
 
-- Bright yellow was used as the main accent color of the website. Attention and creativity. 
+- A bright yellow, #fffb00, was used as the main accent color of the website. Yellow is highly associated with creativity and fun, central to the Watercolour School brand. Yellow is also good at drawing attention, which the website will draw on by using the accent colour somewhat sparingly and for elements that should stand out on the page.
 
-- A mix of soft beige and clean white was used as background colors. Complements the strong accent color. Neutral. Colourful images not clashing with the background. Provides a strong contrast between both text and yelow accent elements such as buttons, and the background. 
+- A mix of soft beige, #f4f3ea, and clean white, #ffffff, were used as background colors. These neutral colours complement the bright yellow accent color, and helps to give a harmonious impression. Given the purpose of the website, these colours also make for good background colours since they provide a neutral canvas for the often colourful images (e.g. the user art images showcased on the home page).
 
-- A very dark brown was used for body text on the website, to give a slightly softer impression. 
+- A very dark brown, #2e2e22, was used for body text on the website, to give a slightly softer impression, and to allow for the true black, #000000, elements (e.g. headings) to stand out more. 
+
+#### Secondary colours:
+In addition to the primary colour scheme, a few more colours were used to a minor extent:
+- A dark yellow, #ead200, was used for buttons and links styled as buttons on hover
+- rgb(69, 67, 60) was used for a softer shadow effect on hover, and rgb(69, 67, 60) was used for a darker shadow effect on click.
+- Lastly an almost white colour with a slight purple tint, rgba(245, 244, 249, 0.786), was used for the hero section overlay in order to create a semi-transparent. The slight purple tint also helped to make the yellow link stand out better. 
 
 
 ### Typography
@@ -329,28 +338,19 @@ Once on your local computer you can open the index.html with a web browser.
 All images were taken from [Pixabay](https://pixabay.com/), [Pexels](https://www.pexels.com/), and [Unsplash](https://unsplash.com/).
 
 In order of appearance:
-- [Hero image, Home page](https://www.pexels.com/photo/a-used-watercolor-palette-7859492/) (Pexels)
-
-- [Testimonal section image, Home page](https://unsplash.com/photos/woman-in-white-crew-neck-shirt-smiling-IF9TK5Uy-KI) (Unsplash)
-
-- [1st image in User Art section, Home page](https://pixabay.com/illustrations/paint-flower-floral-spring-blossom-2421585/) (Pixabay)
-- [2nd image in User Art section, Home page](https://pixabay.com/illustrations/watercolor-painting-art-artistic-5852721/) (Pixabay)
-- [3rd image in User Art section, Home page](https://pixabay.com/illustrations/green-tree-forest-nature-3140057/) (Pixabay)
-- [4th image in User Art section, Home page](https://unsplash.com/photos/white-and-orange-cat-painting-KRztl5I6xac) (Unsplash)
-
-- [Course details section image, Course info page](https://pixabay.com/vectors/paint-brush-art-to-paint-painting-4901102/) (Pixabay)
-
-- [Course scope image, Course info page](https://www.pexels.com/photo/a-person-holding-white-paper-with-rainbow-colors-7898407/) (Pexels)
-
-- [Watercolor paper section, Materials page](https://pixabay.com/photos/hands-paint-brush-painting-1868562/) (Pixabay)
-
-- [Brushes section, Materials page](https://pixabay.com/photos/brushes-art-paint-tool-decor-1683134/) (Pixabay)
-
-- [Watercolour paints section, Materials page](https://pixabay.com/photos/tubes-of-paint-art-artists-tools-7761437/) (Pixabay)
-
-- [Masking tape section, Materials page](https://pixabay.com/photos/paint-brush-flat-brush-masking-tape-3175639/) (Pixabay)
-
-- [Main image, Sign up page and Response page](https://pixabay.com/photos/paint-brush-to-paint-colour-4030050/) (Pixabay)
+- [Home page - Hero image](https://www.pexels.com/photo/a-used-watercolor-palette-7859492/) (Pexels)
+- [Home page - Testimonal section image](https://unsplash.com/photos/woman-in-white-crew-neck-shirt-smiling-IF9TK5Uy-KI) (Unsplash)
+- [Home page - 1st image in User Art section](https://pixabay.com/illustrations/paint-flower-floral-spring-blossom-2421585/) (Pixabay)
+- [Home page - 2nd image in User Art section](https://pixabay.com/illustrations/watercolor-painting-art-artistic-5852721/) (Pixabay)
+- [Home page - 3rd image in User Art section](https://pixabay.com/illustrations/green-tree-forest-nature-3140057/) (Pixabay)
+- [Home page - 4th image in User Art section](https://unsplash.com/photos/white-and-orange-cat-painting-KRztl5I6xac) (Unsplash)
+- [Course info page - Course details section image](https://pixabay.com/vectors/paint-brush-art-to-paint-painting-4901102/) (Pixabay)
+- [Course info page - Course scope image](https://www.pexels.com/photo/a-person-holding-white-paper-with-rainbow-colors-7898407/) (Pexels)
+- [Materials page - Watercolor paper section](https://pixabay.com/photos/hands-paint-brush-painting-1868562/) (Pixabay)
+- [Materials page - Brushes section](https://pixabay.com/photos/brushes-art-paint-tool-decor-1683134/) (Pixabay)
+- [Materials page - Watercolour paints section](https://pixabay.com/photos/tubes-of-paint-art-artists-tools-7761437/) (Pixabay)
+- [Materials page - Masking tape section](https://pixabay.com/photos/paint-brush-flat-brush-masking-tape-3175639/) (Pixabay)
+- [Sign up and Response pages - Main image](https://pixabay.com/photos/paint-brush-to-paint-colour-4030050/) (Pixabay)
 
 #### Icons
 All icons were taken from [Font Awesome](https://fontawesome.com/icons)
