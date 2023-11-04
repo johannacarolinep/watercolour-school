@@ -1,6 +1,6 @@
 # Watercolour School
 
-The Watercolour School website allows users to learn about the company's beginner's watercolour course. Visitors of the website can read about the course, register for the course, and find information on materials they will need in order to participate in the course.
+The Watercolour School website allows users to learn about the company's beginner's watercolour course. Visitors to the website can read about the course, register for the course, and find information on materials they will need in order to participate in the course.
 
 The site can be accessed by this [link](https://johannacarolinep.github.io/watercolour-school/)
 
@@ -11,11 +11,11 @@ The site can be accessed by this [link](https://johannacarolinep.github.io/water
 
 ### First Time Visitor Goals:
 
-* As a First Time Visitor landing on the home page, I want to be able to quickly understand that this is a Watercolour school website from above-the-fold elements, so that I can quickly establish that the website matches my search criteria.
+* As a First Time Visitor landing on the home page, I want to be able to quickly understand that this is a Watercolour school website from above-the-fold elements so that I can quickly establish that the website matches my search criteria.
 
 * As a First Time Visitor landing on the home page, I want to be able to understand the theme of the resources from the navigation bar and section headings, so that I can gain an overview of the page resources and decide that they match my expectations.
 
-* As a First Time Visitor landing on the home page, I want to be able to easily navigate through the website, so that I can gain an overview of the information and understand its structure in an intuitive way.
+* As a First Time Visitor landing on the home page, I want to be able to easily navigate through the website, so that I can gain an overview of the information and intuitively understand its structure.
 
 * As a First Time Visitor considering if the course may be of interest to me, I want to see testimonials and/or other social proof of the course, so I can see that the course provider is trustworthy and that other students have found the course useful and/or enjoyable.
 
@@ -76,7 +76,7 @@ In order to improve the user experience of the navigation, the clickable area ar
 ##### On tablet:
 On tablet screen sizes (width 768px - 991px) the navigation is moved to a separate row from the logo. 
 
-The links appear in the same order, but are centered.
+The links appear in the same order but are centered.
 ![Navigation and logo on tablet](documentation/feature-navbar-logo-tablet.png)
 
 ##### On mobile:
@@ -98,7 +98,7 @@ The footer is the same across all pages. It contains useful contact information 
 ### Home page
 The main roles of the home page are:
 - to clarify to the  user the purpose of the website
-- to provide an overview in easy-to-consume format
+- to provide an overview in an easy-to-consume format
 - to inspire and encourage users to consider signing up for the course
 - to help the user trust and relate to the course provider through the use of social proof
 ![Home page on desktop](documentation/feature-homepage-desktop.png)
@@ -169,13 +169,13 @@ The course scope section contains an unordered list of areas/perspectives covere
 ![Course scope section](documentation/feature-course-info-scope-section-desktop.png)
 
 #### Course schedule section
-The course schedule section is similar to the previous section, in that it helps the user understand what to expect from the course. It is another list, but focusing on what students will be painting throughout the course, providing a basic course schedule.
+The course schedule section is similar to the previous section, in that it helps the user understand what to expect from the course. It is another list but focused on what students will be painting throughout the course, providing a basic course schedule.
 
 In order to make the section stand out from the previous section, visual interest is added in the form of icons, symbolising each of the 5 motif themes.
 ![Course schedule section](documentation/feature-course-info-schedule-desktop.png)
 
 #### CTA section
-Lastly the article finishes off with a call to action and link to the sign up page, encouraging users to sign up, after they have read more about the course.
+Lastly, the article finishes off with a call to action and link to the sign up page, encouraging users to sign up, after they have read more about the course.
 ![Course article CTA section](documentation/feature-course-info-cta-desktop.png)
 
 ---
@@ -196,11 +196,11 @@ The materials list has 4 items, each with its own card on the page. Each list it
 ![Materials page list](documentation/feature-materials-list-desktop.png)
 
 ##### Nested list in the 3rd list item
-The third list item, "Watercolour Paints" contains a nested list of the specific paints recommended for the course. This list is styled differently as to create more visual interest on the page.
+The third list item, "Watercolour Paints" contains a nested list of the specific paints recommended for the course. This list is styled differently to create more visual interest on the page.
 ![Materials page nested list](documentation/feature-materials-nested-list-desktop.png)
 
 #### Page outro
-Lastly, to provide a more natural ending to the page, the list is followed by a brief outro text. In order to differentiate the page outro from the list items, it has a thich dotted border.
+Lastly, to provide a more natural ending to the page, the list is followed by a brief outro text. To differentiate the page outro from the list items, it has a thick dotted border.
 ![Materials page outro](documentation/feature-materials-outro-desktop.png)
 
 ---
@@ -208,7 +208,7 @@ Lastly, to provide a more natural ending to the page, the list is followed by a 
 ### Sign up page
 The sign up page has a form, accompanied by an image to make the page more fun.
 
-The first three inputs in the form are required. The third is of the type email and will not accept an input that does not follow email format. 
+The first three inputs in the form are required. The third is of the type email and will not accept an input that does not follow the email format. 
 
 The fourth input is a dropdown, allowing the user to select a start date. There is default option, which will be sent with the form if the user does not make an active choice. 
 
@@ -261,7 +261,7 @@ Lastly the page contains links to the most probably resources the user could wan
 
 - A bright yellow, #fffb00, was used as the main accent color of the website. Yellow is highly associated with creativity and fun, central to the Watercolour School brand. Yellow is also good at drawing attention, which the website will draw on by using the accent colour somewhat sparingly and for elements that should stand out on the page.
 
-- A mix of soft beige, #f4f3ea, and clean white, #ffffff, were used as background colors. These neutral colours complement the bright yellow accent color, and helps to give a harmonious impression. Given the purpose of the website, these colours also make for good background colours since they provide a neutral canvas for the often colourful images (e.g. the user art images showcased on the home page).
+- A mix of soft beige, #f4f3ea, and clean white, #ffffff, were used as background colours. These neutral colours complement the bright yellow accent colour, and helps to give a harmonious impression. Given the purpose of the website, these colours also make for good background colours since they provide a neutral canvas for the often colourful images (e.g. the user art images showcased on the home page).
 
 - A very dark brown, #2e2e22, was used for body text on the website, to give a slightly softer impression, and to allow for the true black, #000000, elements (e.g. headings) to stand out more. 
 
@@ -269,18 +269,18 @@ Lastly the page contains links to the most probably resources the user could wan
 In addition to the primary colour scheme, a few more colours were used to a minor extent:
 - A dark yellow, #ead200, was used for buttons and links styled as buttons on hover
 - rgb(69, 67, 60) was used for a softer shadow effect on hover, and rgb(69, 67, 60) was used for a darker shadow effect on click.
-- Lastly an almost white colour with a slight purple tint, rgba(245, 244, 249, 0.786), was used for the hero section overlay in order to create a semi-transparent. The slight purple tint also helped to make the yellow link stand out better. 
+- Lastly an almost white colour with a slight purple tint, rgba(245, 244, 249, 0.786), was used for the hero section overlay, in order to make it semi-transparent. The slight purple tint also helped to make the yellow link stand out better. 
 
 
 ### Typography
 
 ![Colour scheme](documentation/font-poppins.png)
 
-- Poppins Google Font was used as the main font throughout the website. This was chosen for high readbility of the content.
+- Poppins Google Font was used as the main font throughout the website. This was chosen for high readability of the content.
 
 ![Colour scheme](documentation/font-lifesavers.png)
 
-- Life Savers Google Font was used for the company logo. The intention of choosing Life Savers for this purpose was to attract users attention to the logo, and to communicate the creative nature of the company.
+- Life Savers Google Font was used for the company logo. The intention of choosing Life Savers for this purpose was to attract users' attention to the logo and to communicate the creative nature of the company.
 
 
 ### Wireframes
@@ -295,14 +295,14 @@ In addition to the primary colour scheme, a few more colours were used to a mino
 
 ## Testing
 
-All test related documentation can be found in the [TESTING.md](TESTING.md) file.
+All test-related documentation can be found in the [TESTING.md](TESTING.md) file.
 
 ---
 
 ## Deployment
 
 ### Deployment to GitHub Pages
-The webpages are deployed to GitHub pages, using git version control. The steps to deployment are as follows:
+The webpages are deployed to GitHub pages, using Git version control. The steps to deployment are as follows:
 - In the GitHub repository, navigate to the Settings tab.
 - From the source section drop-down menu, select the Main Branch, then click "Save".
 
@@ -313,7 +313,7 @@ The live link can be found [here](https://johannacarolinep.github.io/watercolour
 If you wish to run the website locally you can clone it by typing the following command in your IDE Terminal:
 - `git clone https://github.com/johannacarolinep/watercolour-school.git`
 
-Once on your local computer you can open the index.html with a web browser. 
+Once on your local computer, you can open the index.html with a web browser. 
 
 
 ---
@@ -325,7 +325,7 @@ Once on your local computer you can open the index.html with a web browser.
 ## Credits
 
 ### Content
-- [Shawn Reisner - Codepen.io](https://codepen.io/sreisner/pen/yOOOjx) - This code, with minor adjustments was used to create the nav link underline effect on hover (on large screens).
+- [Shawn Reisner - Codepen.io](https://codepen.io/sreisner/pen/yOOOjx) - This code, with minor adjustments, was used to create the nav link underline effect on hover (on large screens).
 
 ### Media
 #### Images
@@ -333,7 +333,7 @@ All images were taken from [Pixabay](https://pixabay.com/), [Pexels](https://www
 
 In order of appearance:
 - [Home page - Hero image](https://www.pexels.com/photo/a-used-watercolor-palette-7859492/) (Pexels)
-- [Home page - Testimonal section image](https://unsplash.com/photos/woman-in-white-crew-neck-shirt-smiling-IF9TK5Uy-KI) (Unsplash)
+- [Home page - Testimonial section image](https://unsplash.com/photos/woman-in-white-crew-neck-shirt-smiling-IF9TK5Uy-KI) (Unsplash)
 - [Home page - 1st image in User Art section](https://pixabay.com/illustrations/paint-flower-floral-spring-blossom-2421585/) (Pixabay)
 - [Home page - 2nd image in User Art section](https://pixabay.com/illustrations/watercolor-painting-art-artistic-5852721/) (Pixabay)
 - [Home page - 3rd image in User Art section](https://pixabay.com/illustrations/green-tree-forest-nature-3140057/) (Pixabay)
@@ -354,8 +354,8 @@ Fonts were imported from [Google Fonts](https://fonts.google.com/)
 
 ---
 
-## Acknowledgments
-- [Iuliia Konovalova](https://github.com/IuliiaKonovalova) - for all of the valuable guidance and feedback throughout this project. I am incredibly grateful to have such an engaged and knowledgable mentor. 
+## Acknowledgements
+- [Iuliia Konovalova](https://github.com/IuliiaKonovalova) - for all of the valuable guidance and feedback throughout this project. I am incredibly grateful to have such an engaged and knowledgeable mentor. 
 - [Code Institute](https://codeinstitute.net/) tutors and Slack community members for their support and help.
 
 ---
