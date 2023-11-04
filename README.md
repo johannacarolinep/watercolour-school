@@ -235,24 +235,34 @@ Lastly, the page contains links to the most probably resources the user could wa
 
 
 ---
-## Technologies and tools used
+## Technologies and tools used, split by primary usage area
+### Planning
+- [Balsamiq](https://balsamiq.com/) was used to make wireframes for the website.
+- [Colormind](http://colormind.io/) was used to generate the colour scheme for the website.
 
+### Code
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) was used as the foundation of the site.
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - was used to add the styles and layout of the site.
-- [Git](https://git-scm.com/) was used for the version control of the website.
-- [Balsamiq](https://balsamiq.com/) was used to make wireframes for the website.
-- [VSCode](https://code.visualstudio.com/) was used as the main tool to write and edit code.
+- [VSCode](https://code.visualstudio.com/) was used as the IDE.
+
+### Asset creation and editing
 - [GIMP](https://www.gimp.org/) was used to edit and resize all images.
+- [Favicon.io Favicon Generator](https://favicon.io/favicon-generator/) was used to make the favicon for the website
+
+### Deployment and version control
+- [Git](https://git-scm.com/) was used for the version control of the website.
 - [GitHub](https://github.com/) was used to host the code of the website.
-- [Colormind](http://colormind.io/) was used to generate the colour scheme for the website.
+
+### Testing
+- [Chrome Devtools](https://developer.chrome.com/docs/devtools/) was used for continuous testing and troubleshooting.
+- [Lighthouse](https://developer.chrome.com/docs/devtools/lighthouse/) was used to evaluate and optimize the performance and accessibility of the website.
+- [WAVE Tool](https://wave.webaim.org/) was used to test and troubleshoot accessibility on the website.
 - [W3C Markup Validation Service](https://validator.w3.org/) was used to validate the HTML code of the website.
 - [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) was used to validate the CSS code of the website.
-- [MacOS VoiceOver](https://support.apple.com/guide/voiceover/welcome/mac) was used to understand screen reader accessibility on the website.
+
+### Documentation
 - [Device Shots](https://deviceshots.com/) was used to create mockups of the website for the README.
 - [Responsive Viewer](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb/related?utm_source=ext_sidebar&hl=en-GB) was used to capture screenshots of the website across different device types.
-- [Favicon.io Favicon Generator](https://favicon.io/favicon-generator/) was used to make the favicon for the website
-- [WAVE Tool](https://wave.webaim.org/) was used to test accessibility on the website.
-
 
 ---
 ## Design
