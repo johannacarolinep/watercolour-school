@@ -1017,7 +1017,7 @@ footer address {
     /* Info box section laptops and desktop */
     .info-box-section {
         width: 85%;
-        margin-top: 30px;
+        margin: 30px auto;
     }
 
     .info-box-div {
@@ -1025,6 +1025,7 @@ footer address {
         min-height: 150px;
         font-size: 1.1rem;
         flex-basis: 32%;
+        margin: 0;
     }
 
     .info-box-div li,
