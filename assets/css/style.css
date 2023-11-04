@@ -66,13 +66,13 @@ h3 {
 }
 
 /* Links */
-.link_standard {
+.link-standard {
     text-decoration: none;
     color: black;
     font-weight: 500;
 }
 
-.link_standard:hover {
+.link-standard:hover {
     text-decoration: underline;
 }
 
@@ -294,70 +294,70 @@ main {
 }
 
 /* Course info page styles */
-.course_article {
+.course-article {
     background-color: #ffffff;
     padding-top: 30px;
     font-size: 1rem;
 }
 
-.course_article section {
+.course-article section {
     padding: 15px;
 }
 
-.course_article h1 {
+.course-article h1 {
     font-size: 1.2rem;
     padding: 0 15px;
     font-weight: 600;
     font-style: italic;
 }
 
-.highlight_beige {
+.highlight-beige {
     background-color: #f4f3ea;
     padding: 2px;
 }
 
-.course_article h2 {
+.course-article h2 {
     font-size: 1.6rem;
 }
 
-.course_article h3 {
+.course-article h3 {
     font-size: 1.4rem;
 }
 
-.course_article ol,
+.course-article ol,
 ul {
     list-style-type: none;
 }
 
-#course_intro_section {
+#course-intro-section {
     padding-top: 5px;
 }
 
 /* Course details section */
-.course_details_section {
+.course-details-section {
     background-color: #fffb00;
     margin: 20px auto;
     width: 90%;
     max-width: 600px;
 }
 
-.fine_print {
+.fine-print {
     font-size: 80%;
 }
 
-.course_details_dates_div,
-.course_details_location_div,
-.course_details_price_div {
+.course-details-dates-div,
+.course-details-location-div,
+.course-details-price-div {
     padding: 20px;
 }
 
-.course_details_section hr {
+.course-details-section hr {
     border: 1px solid black;
     width: 90%;
     margin: auto;
 }
 
-.course_details_price_div img {
+.course-details-price-div img {
     width: 100%;
     max-width: 300px;
     aspect-ratio: 1 / 0.16;
@@ -366,39 +366,39 @@ ul {
 }
 
 /* Course scope section and Course schedule section */
-.course_scope_section {
+.course-scope-section {
     background-color: #f4f3ea;
 }
 
-.scope_image_container {
+.scope-image-container {
     width: 80%;
     max-width: 320px;
     margin: 30px auto 15px auto;
 }
 
-.scope_image_container img {
+.scope-image-container img {
     object-fit: cover;
     width: 100%;
     aspect-ratio: 1 / 1;
     border-radius: 50%;
 }
 
-.course_scope_section span,
-.course_schedule_section span {
+.course-scope-section span,
+.course-schedule-section span {
     font-weight: 600;
 }
 
-.course_scope_section li,
-.course_schedule_section li {
+.course-scope-section li,
+.course-schedule-section li {
     margin-top: 15px;
 }
 
 /* Course CTA section */
-.course_cta_section {
+.course-cta-section {
     background-color: #f4f3ea;
 }
 
-.course_cta_container {
+.course-cta-container {
     background-color: #ffffff;
     padding: 20px;
     text-align: center;
@@ -406,44 +406,44 @@ ul {
     flex-direction: column;
 }
 
-.course_cta_container a {
+.course-cta-container a {
     margin: 20px 10px;
     font-size: 1.4rem;
     padding: 15px;
 }
 
 /* Materials page styles */
-.materials_h1 {
+.materials-h1 {
     margin: 15px 15px 5px 15px;
 }
 
-.materials_intro {
+.materials-intro {
     margin: 0px 15px 30px 15px;
     font-size: 1rem;
 }
 
-.materials_ul {
+.materials-ul {
     width: 95%;
     margin: auto;
 }
 
-.materials_ul p {
+.materials-ul p {
     font-size: 1rem;
 }
 
-.materials_li {
+.materials-li {
     padding: 20px 15px;
     background-color: #ffffff;
     margin: 10px 0;
 }
 
-.materials_image_container {
+.materials-image-container {
     width: 70%;
     max-width: 225px;
     margin: 25px auto;
 }
 
-.materials_image_container img {
+.materials-image-container img {
     object-fit: cover;
     width: 100%;
     aspect-ratio: 1 / 1;
@@ -451,7 +451,7 @@ ul {
 }
 
 /* Materials page nested list */
-.paints_ul {
+.paints-ul {
     list-style-type: none;
     list-style-position: inside;
     margin: 15px 0 30px 0;
@@ -463,17 +463,17 @@ ul {
     padding: 5px 0 5px 5px;
 }
 
-.paints_ul li {
+.paints-ul li {
     margin-top: 5px;
     margin-right: 5px;
 }
 
-.paints_ul span {
+.paints-ul span {
     font-weight: 600;
 }
 
 /* Materials page outro */
-.materials_outro {
+.materials-outro {
     background-color: #ffffff;
     font-size: 1rem;
     padding: 25px 15px;
@@ -566,7 +566,7 @@ footer address {
         margin-top: 5px;
     }
 
-    .fine_print {
+    .fine-print {
         font-size: 85%;
     }
 
@@ -733,22 +733,22 @@ footer address {
     }
 
     /* Course info page styles tablet */
-    .course_article section {
+    .course-article section {
         padding: 50px 30px;
     }
 
-    .course_article h1 {
+    .course-article h1 {
         padding: 20px 30px 5px 30px;
     }
 
     /* Course intro section tablets */
-    #course_intro_section {
+    #course-intro-section {
         padding: 5px 30px;
         font-size: 1.1rem;
     }
 
     /* Course details section tablets */
-    .course_details_section {
+    .course-details-section {
         width: 100%;
         max-width: none;
         margin: 0 auto;
@@ -759,13 +759,13 @@ footer address {
         font-size: 1.1rem;
     }
 
-    .course_details_dates_div,
-    .course_details_location_div,
-    .course_details_price_div {
+    .course-details-dates-div,
+    .course-details-location-div,
+    .course-details-price-div {
         background-color: #fffb00;
     }
 
-    .course_details_left_container {
+    .course-details-left-container {
         width: 48%;
         display: flex;
         flex-direction: column;
@@ -773,86 +773,86 @@ footer address {
         min-height: 380px;
     }
 
-    .course_details_price_div {
+    .course-details-price-div {
         width: 48%;
         padding: 30px;
         display: flex;
         flex-direction: column;
     }
 
-    .course_details_dates_div,
-    .course_details_location_div {
+    .course-details-dates-div,
+    .course-details-location-div {
         width: 100%;
         height: 47%;
         padding: 30px;
     }
 
-    .course_details_section hr {
+    .course-details-section hr {
         display: none;
     }
 
     /* Course scope section and course schedule section tablets */
-    .scope_image_container {
+    .scope-image-container {
         width: 320px;
         margin: 50px auto 0px auto;
     }
 
-    .course_scope_section,
-    .course_schedule_section {
+    .course-scope-section,
+    .course-schedule-section {
         font-size: 1.1rem;
     }
 
-    .course_scope_section span,
-    .course_schedule_section span {
+    .course-scope-section span,
+    .course-schedule-section span {
         font-weight: 700;
     }
 
-    .course_scope_section li,
-    .course_schedule_section li {
+    .course-scope-section li,
+    .course-schedule-section li {
         margin-top: 30px;
     }
 
     /* Materials page styles tablet */
-    .materials_h1 {
+    .materials-h1 {
         margin: 30px 0 5px 30px;
     }
 
-    .materials_intro {
+    .materials-intro {
         margin: 0px 15px 30px 30px;
         font-size: 1.1rem;
     }
 
-    .materials_ul {
+    .materials-ul {
         width: 95%;
         margin: auto;
     }
 
-    .materials_li {
+    .materials-li {
         display: flex;
     }
 
-    .materials_li_content {
+    .materials-li-content {
         width: 70%;
         font-size: 1rem;
         padding: 20px;
     }
 
-    .materials_image_container {
+    .materials-image-container {
         width: 25%;
         margin: auto;
         padding: 20px 0;
     }
 
     /* Materials page nested list tablets */
-    .paints_ul {
+    .paints-ul {
         margin: 20px 0 0 0;
     }
 
-    .paints_ul li {
+    .paints-ul li {
         margin-right: 10px;
     }
 
-    .materials_outro {
+    .materials-outro {
         font-size: 1.1rem;
     }
 
@@ -1075,39 +1075,39 @@ footer address {
     }
 
     /* Course info page styles laptops and desktop */
-    .course_article {
+    .course-article {
         width: 85%;
         max-width: 1200px;
         margin: 30px auto;
         background-color: #f4f3ea;
     }
 
-    .course_article section {
+    .course-article section {
         width: 100%;
     }
 
-    #course_intro_section {
+    #course-intro-section {
         background-color: #ffffff;
         font-size: 1.2rem;
     }
 
-    .course_article h1 {
+    .course-article h1 {
         background-color: #ffffff;
         padding-top: 50px;
     }
 
     /* Course details section laptops and desktop */
-    .course_details_left_container {
+    .course-details-left-container {
         width: 35%;
         min-height: 360px;
     }
 
-    .course_details_price_div {
+    .course-details-price-div {
         width: 60%;
     }
 
     /* Course scope and schedule sections laptops and desktop */
-    .course_scope_section {
+    .course-scope-section {
         display: flex;
         justify-content: space-between;
         width: 100%;
@@ -1116,34 +1116,34 @@ footer address {
         font-size: 1.2rem;
     }
 
-    .scope_image_container {
+    .scope-image-container {
         width: 280px;
         margin: auto 0;
     }
 
-    .scope_text_container {
+    .scope-text-container {
         width: 67%;
         padding-right: 20px;
         flex-grow: 1;
     }
 
-    .course_schedule_section {
+    .course-schedule-section {
         background-color: #ffffff;
         margin-top: 50px;
         font-size: 1.2rem;
     }
 
     /* Course article CTA section laptops and desktop */
-    .course_cta_section {
+    .course-cta-section {
         background-color: #ffffff;
         margin-top: 50px;
     }
 
-    .course_cta_container {
+    .course-cta-container {
         padding: 0;
     }
 
-    .course_cta_container a {
+    .course-cta-container a {
         font-size: 1.6rem;
         padding: 20px;
         width: 200px;
@@ -1151,14 +1151,14 @@ footer address {
     }
 
     /* Materials page styles desktop */
-    .materials_h1 {
+    .materials-h1 {
         width: 85%;
         margin: 30px auto 5px auto;
         max-width: 1200px;
         padding: 0 20px;
     }
 
-    .materials_intro {
+    .materials-intro {
         margin: 0px auto 30px auto;
         font-size: 1.2rem;
         width: 85%;
@@ -1166,39 +1166,39 @@ footer address {
         padding: 0 20px;
     }
 
-    .materials_ul {
+    .materials-ul {
         width: 85%;
         max-width: 1200px;
     }
 
-    .materials_ul p {
+    .materials-ul p {
         font-size: 1.2rem;
     }
 
-    .materials_li {
+    .materials-li {
         display: flex;
     }
 
-    .materials_li_content {
+    .materials-li-content {
         width: 75%;
     }
 
-    .materials_image_container {
+    .materials-image-container {
         width: 20%;
     }
 
     /* Materials page nested list laptops and desktop */
-    .paints_ul {
+    .paints-ul {
         font-size: 1rem;
         justify-content: flex-start;
         padding: 5px 10px;
     }
 
-    .paints_ul li {
+    .paints-ul li {
         margin-right: 15px;
     }
 
-    .materials_outro {
+    .materials-outro {
         padding: 25px 30px;
         width: 85%;
         max-width: 1200px;
@@ -1249,7 +1249,7 @@ footer address {
 @media screen and (min-width: 1180px) {
 
     /* Materials page nested list */
-    .paints_ul li {
+    .paints-ul li {
         width: 30%;
     }
 }

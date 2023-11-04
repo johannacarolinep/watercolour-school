@@ -133,6 +133,25 @@ No errors were found when validating the website with the official W3C CSS valid
 
 ## Bugs
 ### Solved bugs
+- Prioritisation issue in CSS - User art section showing as 100% width on desktops:
+
+    The user art section was showing as 100% width on desktops, while the intended section width was 85%. The behaviour occurred after image optimisation the previous day when one of the steps involved setting the section width to 100% on mobile screens.
+
+    On desktops, the 85% width had previously been set for all sections by targeting the element type. Since I targeted the individual section with a class selector when I set the width on mobile, this width now had precedence. 
+
+    Solution: Width was set to 85% using the class selector for larger screens as well.
+
+- Social media icons showing with a small line between them:
+
+    ![Social media icons bug](documentation/bug-social-icons.png)
+    
+    Solution: Targeting the social media links with CSS rule text-decoration: none; 
+
+- Incorrectly used role = menuitem for navigation links to improve accessibility. 
+    When using the WAVE evaluation tool I was alerted to the incorrect use. 
+    
+    Solution: After reading more about menuitem, I removed these these attribute and values.
+
 
 ### Unsolved bugs
 
