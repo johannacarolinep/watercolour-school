@@ -64,26 +64,28 @@ In order to improve the user experience, a larger area around the link text is c
 The current page is underlined.
 
 ##### On desktop:
-On larger screens (min width 992px) the navigation appears as one row, together with the logo. 
+On larger screens (min-width 992px) the navigation appears as one row, together with the logo. 
 
-The "Home", "Course info" and "Materials" links are aligned to the left, while the "Sign Up" link is aligned to the right, in order to make the "Sign Up" link stand out from the rest and be easy to find once a user is ready to sign up for the course.
+The "Home", "Course info" and "Materials" links are aligned to the left, while the "Sign Up" link is aligned to the right, to make the "Sign Up" link stand out from the rest and be easy to find once a user is ready to sign up for the course.
 ![Navigation on desktop](documentation/feature-navbar-desktop.png)
 
-In order to improve the user experience of the navigation, the clickable area around each link will change colour on hover. Additionally there is an animated underline effect, to account for the subtlety of the colour change. 
+To improve the user experience of the navigation, the clickable area around each link will change colour on hover. Additionally, there is an animated underline effect, to account for the subtlety of the colour change. 
 
 ![Navigation on desktop](documentation/feature-navbar-desktop-hover.png)
 
 ##### On tablet:
 On tablet screen sizes (width 768px - 991px) the navigation is moved to a separate row from the logo. 
 
-The links appear in the same order but are centered.
+The links appear in the same order but are centred.
 ![Navigation and logo on tablet](documentation/feature-navbar-logo-tablet.png)
 
 ##### On mobile:
 On mobile screens (max-width 767px) a hamburger icon appears on the same row as the logo, on the right side.  
+
 ![Navigation and logo on mobile](documentation/feature-navbar-logo-mobile.png)
 
 When clicked, the navigation will show as a dropdown menu. 
+
 ![Navigation opened and logo on mobile](documentation/feature-navbar-open-mobile.png)
 
 ---
@@ -97,16 +99,16 @@ The footer is the same across all pages. It contains useful contact information 
 
 ### Home page
 The main roles of the home page are:
-- to clarify to the  user the purpose of the website
-- to provide an overview in an easy-to-consume format
-- to inspire and encourage users to consider signing up for the course
-- to help the user trust and relate to the course provider through the use of social proof
+- Clarify to the user the purpose of the website.
+- Provide an overview in an easy-to-consume format.
+- To inspire and encourage users to consider signing up for the course.
+- Help the user to trust and relate to the course provider through the use of social proof.
 ![Home page on desktop](documentation/feature-homepage-desktop.png)
 
 #### Hero section
 The hero section contains a heading that clarifies the purpose of the website, using simple and specific language.
 
-It also contains a link styled as a button, drawing users attention to the possibility to sign up for the course.
+It also contains a link styled as a button, drawing users' attention to the possibility of signing up for the course.
 
 The hero section has a fixed background image to draw attention and make the page more visually interesting.
 
@@ -126,13 +128,13 @@ The testimonial section contains a quote from a former student talking warmly ab
 
 The section helps to build trust and allows the user to picture relate and picture themselves as a participating in the course.
 
-The visual context is enough for most users to understand that this is a testimonial. The section has a hidden heading, clarifying this for users using a screenreader. 
+The visual context is enough for most users to understand that this is a testimonial. The section has a hidden heading, clarifying this for users using a screen reader. 
 ![Testimonial section on desktop](documentation/feature-home-testimonial-section-desktop.png)
 
 #### Info box section
 The info box section contains 3 cards. Two of the cards offer some key details of the course, in a way that is easy to perceive even if a user is quickly going through the page. The third card contains a call to action with a link to the sign up page. 
 
-Similarly to the testimonial section, the info box section has a hidden heading, to improve the experience for screenreader users.
+Similarly to the testimonial section, the info box section has a hidden heading, to improve the experience for screen reader users.
 ![Info box section on desktop](documentation/feature-home-info-box-section-desktop.png)
 
 #### User art section
@@ -144,7 +146,7 @@ Accompanying the user art there is also a call to join the community on social m
 ---
 
 ### Course info page
-The course info page contains a longer article, with the purpose of providing a more detailed description of the course, helping users to the decide whether to sign up. 
+The course info page contains a longer article, with the purpose of providing a more detailed description of the course, helping users to decide whether to sign up. 
 
 In order to make the content more digestible, it is split into sections.
 
@@ -159,9 +161,9 @@ The intro section also contains an introductory text and clarifies to the user t
 #### Course details section
 The course details section contains key pieces of information for users considering the course and are placed high up the page, as well as styled to draw attention. 
 
-In the Course price card, the text clarifies that materials are not included in the course fee. This is an important clarification since the target audience are mainly complete beginners to watercolour painting, who may not know that this is the norm. 
+In the Course price card, the text clarifies that materials are not included in the course fee. This is an important clarification since the target audience consists mainly of complete beginners to watercolour painting, who may not know that this is the norm. 
 
-Here the user is also directed to the Materials page for more guiance and given a shortcut to get there through a link. 
+Here the user is also directed to the Materials page for more guidance and given a shortcut to get there through a link. 
 ![Course details section](documentation/feature-course-info-details-section-desktop.png)
 
 #### Course scope section
@@ -175,7 +177,7 @@ In order to make the section stand out from the previous section, visual interes
 ![Course schedule section](documentation/feature-course-info-schedule-desktop.png)
 
 #### CTA section
-Lastly, the article finishes off with a call to action and link to the sign up page, encouraging users to sign up, after they have read more about the course.
+Lastly, the article finishes off with a call to action and a link to the sign up page, encouraging users to sign up, after they have read more about the course.
 ![Course article CTA section](documentation/feature-course-info-cta-desktop.png)
 
 ---
@@ -212,11 +214,11 @@ The first three inputs in the form are required. The third is of the type email 
 
 The fourth input is a dropdown, allowing the user to select a start date. There is default option, which will be sent with the form if the user does not make an active choice. 
 
-The submit button is styled in the way as the links styled as buttons throughout the website, to create a feeling of coherance. 
+The submit button is styled in the same way as the "links styled as buttons" throughout the website, to create a feeling of coherence. 
 
-Underneath the submit button, there is a text clarifying that submitting the form means the user is registering and will be liable to pay the course fee. On screenreaders, this text is connected to the button by aria-describedby, since it's important that this information is read in connection to the button, instead of after already submitting the form. 
+Underneath the submit button, there is a text clarifying that submitting the form means the user is registering and will be liable to pay the course fee. On screen readers, this text is connected to the button by aria-describedby, since it's important that this information is read in connection to the button, instead of after already submitting the form. 
 
-After form submission the user is redirected to the Response page.
+After form submission, the user is redirected to the Response page.
 
 ![Sign up page](documentation/feature-signup-page-desktop.png)
 
@@ -226,9 +228,9 @@ The response page mirrors the sign up page, reusing the image and an almost iden
 
 It contains text confirming the form submission, and sets the expectation on what happens next, to make the user feel safe about the submission.
 
-The response page also contains another encouragement to visit the company's social media, with clickable icons leading to the Facebook and Instagram page.
+The response page also contains another encouragement to visit the company's social media, with clickable icons leading to the Facebook and Instagram pages.
 
-Lastly the page contains links to the most probably resources the user could want to go to next, the Materials page, in order to prepare for the course, or back to the Home page.
+Lastly, the page contains links to the most probably resources the user could want to go to next, the Materials page, in order to prepare for the course, or back to the Home page.
 ![Response page](documentation/feature-response-page-desktop.png)
 
 
@@ -245,7 +247,7 @@ Lastly the page contains links to the most probably resources the user could wan
 - [Colormind](http://colormind.io/) was used to generate the colour scheme for the website.
 - [W3C Markup Validation Service](https://validator.w3.org/) was used to validate the HTML code of the website.
 - [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) was used to validate the CSS code of the website.
-- [MacOS VoiceOver](https://support.apple.com/guide/voiceover/welcome/mac) was used to understand screenreader accessibility on the website.
+- [MacOS VoiceOver](https://support.apple.com/guide/voiceover/welcome/mac) was used to understand screen reader accessibility on the website.
 - [Device Shots](https://deviceshots.com/) was used to create mockups of the website for the README.
 - [Responsive Viewer](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb/related?utm_source=ext_sidebar&hl=en-GB) was used to capture screenshots of the website across different device types.
 - [Favicon.io Favicon Generator](https://favicon.io/favicon-generator/) was used to make the favicon for the website
@@ -261,17 +263,17 @@ Lastly the page contains links to the most probably resources the user could wan
 
 ![Colour scheme](documentation/colour-scheme.png)
 
-- A bright yellow, #fffb00, was used as the main accent color of the website. Yellow is highly associated with creativity and fun, central to the Watercolour School brand. Yellow is also good at drawing attention, which the website will draw on by using the accent colour somewhat sparingly and for elements that should stand out on the page.
+- A bright yellow, #fffb00, was used as the main accent colour of the website. Yellow is highly associated with creativity and fun, central to the Watercolour School brand. Yellow is also good at drawing attention, which the website will draw on by using the accent colour somewhat sparingly and for elements that should stand out on the page.
 
-- A mix of soft beige, #f4f3ea, and clean white, #ffffff, were used as background colours. These neutral colours complement the bright yellow accent colour, and helps to give a harmonious impression. Given the purpose of the website, these colours also make for good background colours since they provide a neutral canvas for the often colourful images (e.g. the user art images showcased on the home page).
+- A mix of soft beige, #f4f3ea, and clean white, #ffffff, were used as background colours. These neutral colours complement the bright yellow accent colour and help to give a harmonious impression. Given the purpose of the website, these colours also make for good background colours since they provide a neutral canvas for the often colourful images (e.g. the user art images showcased on the home page).
 
 - A very dark brown, #2e2e22, was used for body text on the website, to give a slightly softer impression, and to allow for the true black, #000000, elements (e.g. headings) to stand out more. 
 
 #### Secondary colours:
 In addition to the primary colour scheme, a few more colours were used to a minor extent:
 - A dark yellow, #ead200, was used for buttons and links styled as buttons on hover
-- rgb(69, 67, 60) was used for a softer shadow effect on hover, and rgb(69, 67, 60) was used for a darker shadow effect on click.
-- Lastly an almost white colour with a slight purple tint, rgba(245, 244, 249, 0.786), was used for the hero section overlay, in order to make it semi-transparent. The slight purple tint also helped to make the yellow link stand out better. 
+- RGB(69, 67, 60) was used for a softer shadow effect on hover, and RGB(69, 67, 60) was used for a darker shadow effect on click.
+- Lastly, an almost white colour with a slight purple tint, RGBA(245, 244, 249, 0.786), was used for the hero section overlay, to make it semi-transparent. The slight purple tint also helped to make the yellow link stand out better. 
 
 
 ### Typography
@@ -306,9 +308,9 @@ All test-related documentation can be found in the [TESTING.md](TESTING.md) file
 ### Deployment to GitHub Pages
 The webpages are deployed to GitHub pages, using Git version control. The steps to deployment are as follows:
 - In the GitHub repository, navigate to the Settings tab.
-- From the source section drop-down menu, select the Main Branch, then click "Save".
+- From the source section drop-down menu, select the main branch, then click "Save".
 
-Once a push is detected to the Main branch GitHub will update the webpages with the new code in the Main branch.
+Once a push is detected to the main branch GitHub will update the webpages with the new code in the main branch.
 
 The live link can be found [here](https://johannacarolinep.github.io/watercolour-school/).
 
