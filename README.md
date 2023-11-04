@@ -353,11 +353,15 @@ In order of appearance:
 - [Main image, Sign up page and Response page](https://pixabay.com/photos/paint-brush-to-paint-colour-4030050/) (Pixabay)
 
 #### Icons
-All icons were taken from [Font Awesome](https://fontawesome.com/icons).
+All icons were taken from [Font Awesome](https://fontawesome.com/icons)
+
+#### Fonts
+Fonts were imported from [Google Fonts](https://fonts.google.com/)
 
 ---
 
 ## Acknowledgments
-
+- [Iuliia Konovalova](https://github.com/IuliiaKonovalova) - for all of the valuable guidance and feedback throughout this project. I am incredibly grateful to have such an engaged and knowledgable mentor. 
+- [Code Institute](https://codeinstitute.net/) tutors and Slack community members for their support and help.
 
 ---
