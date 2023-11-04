@@ -301,11 +301,11 @@ In addition to the primary colour scheme, a few more colours were used to a mino
 
 ### Wireframes
 
-#### Mobile devices
-
-#### Tablets
-
-#### Desktop
+- [Home page](documentation/wireframes-homepage.pdf)
+- [Course info page](documentation/wireframes-course-info-page.pdf)
+- [Materials page](documentation/wireframes-materials-page.pdf)
+- [Sign up page](documentation/wireframes-signup-page.pdf)
+- [Response page](documentation/wireframes-response-page.pdf)
 
 ---
 
