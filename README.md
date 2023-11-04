@@ -115,6 +115,7 @@ The hero section has a fixed background image to draw attention and make the pag
 ![Hero section on desktop](documentation/feature-home-hero-section-desktop.png)
 
 Links styled as buttons are used in several places of the website. These have a bright yellow colour to attract attention. They also react on hover by turning into a darker yellow, and getting a shadow, for a better user experience.
+
 ![Link styled as button in hero section](documentation/feature-home-hero-button-hover.png)
 
 #### Overview section
