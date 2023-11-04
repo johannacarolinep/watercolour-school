@@ -133,13 +133,19 @@ No errors were found when validating the website with the official W3C CSS valid
 
 ## Bugs
 ### Solved bugs
+- When testing the site with Lighthouse, I was alerted that images without a set width and height can cause increased CLS (cumulative layout shift).
+
+    ![Lighthouse flag CLS](documentation/lh-image-dimensions-alert.png)
+
+    Solution: After reading the linked article in the Lighthouse report, I made sure the images' parent containers had a set width. I also added CSS rules targeting the images, with the aspect-ratio property. Running Lighthouse again confirmed this improved the CLS.
+
 - Prioritisation issue in CSS - User art section showing as 100% width on desktops:
 
     The user art section was showing as 100% width on desktops, while the intended section width was 85%. The behaviour occurred after image optimisation the previous day when one of the steps involved setting the section width to 100% on mobile screens.
 
     On desktops, the 85% width had previously been set for all sections by targeting the element type. Since I targeted the individual section with a class selector when I set the width on mobile, this width now had precedence. 
 
-    Solution: Width was set to 85% using the class selector for larger screens as well.
+    Solution: The width was set to 85% using the class selector for larger screens as well.
 
 - Social media icons showing with a small line between them:
 
@@ -151,7 +157,6 @@ No errors were found when validating the website with the official W3C CSS valid
     When using the WAVE evaluation tool I was alerted to the incorrect use. 
     
     Solution: After reading more about "menuitem", I removed these attributes and values.
-
 
 ### Unsolved bugs
 #### Missing form label detected with WAVE Tool:
