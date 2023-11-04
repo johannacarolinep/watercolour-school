@@ -368,6 +368,7 @@ Fonts were imported from [Google Fonts](https://fonts.google.com/)
 
 ## Acknowledgements
 - [Iuliia Konovalova](https://github.com/IuliiaKonovalova) - for all of the valuable guidance and feedback throughout this project. I am incredibly grateful to have such an engaged and knowledgeable mentor. 
+- [Alexandru Sulea](https://github.com/Alexandru-S) - my partner and best friend, who has patiently answered all of my questions and lived through all of my mood swings.
 - [Code Institute](https://codeinstitute.net/) tutors and Slack community members for their support and help.
 
 ---
